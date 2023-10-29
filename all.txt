@@ -1,0 +1,2337 @@
+Aim: to investigate the effect of lead on the inhibition of catechol oxidase in bananas
+
+Apparatus:
+Morter & pestle, 5 boiling tubes, 5 test tubes, test tube holder, funnel, muslin, filter paper, centrifuge & centrifuge tube, several beakers, colorimeter
+
+Method:
+A 1cm thick slice of banana was placed in a mortar along with a little sand and mixed thoroughly. The resulting mixture was strained into a beaker through a muslin using a funnel. The contents of the beaker were poured into a centrifuge tube and centrifuged for 3 minutes, and the resulting clear liquid was decanted off into another beaker.
+Five boiling tubes were filled with buffer and lead ethanoate according to this table:
+
+Test tube                | A | B | C | D | E |
+Volume of buffer         |10 | 9 | 8 | 5 | 2 | (cm^3)
+Volume of lead ethanoate | 0 | 1 | 2 | 5 | 8 | (cm^3)
+
+Tube A was a control as no lead ethanoate was added.
+1 cm^3 of catechol solution was added to each boiling tube.
+1 cm^3 of the filtrate containing enzyme (catechol oxidase) was added to each boiling tube.
+After the solutions had been left and no further colour change was detected each boiling tube was filtered through filter paper using a funnel into a test tube. A colorimeter was used to measure the transmission of 405nm light, and the results were recorded. It was occasionally necessary to filter the solution again if it was turbid (cloudy).
+
+Results: (All values in % 405nm light transmitted)
+       _____________________________
+      | Test Tube                   |
+______|_____________________________|
+Group |  A  |  B  |  C  |  D  |  E  |
+   RS | 7.9 |10.3 |20.1 |37.2 |87.8 |
+   AM |18.4 |18.0 |17.8 |17.4 |90.6 |
+   LA |20.7 |15.1 |13.9 |82.0 |88.6 |
+   OJ |12.7 |14.4 |10.0 |71.7 |83.0 |
+   CS |23.3 |12.8 |13.3 |54.8 |95.1 |
+   MC |17.8 | 7.3 | DNF | DNF | DNF |
+  avg |16.8 |13.0 |15.0 |52.6 |89.0 |
+
+Test tube A was the control as it had no lead ethanoate in it.
+
+Conclusion:
+The overall pattern was that as the lead ethanotate concentration increased, so did the transmission of light but under 5cm^3 of lead ethanoate it seemed to be about constant (within margin of error).
+
+Evaluation:
+The results were inconclusive under 5cm^3 of lead ethanoate. This seemed to have been caused by a slight turbidity of the solution even after filtering twice, which could have been improved by using a method of filtration that caught even finer particles than regular filter paper. Additionally, the experiment could be improved by increasing the number of test tubes and getting a wider range of data.
+
+HW1
+1)
+    Stem cells (4)
+    ==========
+    Stem cells are unspecialised cells. There are two types of stem cells, embreyonic stem cells and tissue stem cells. Embreyonic stem cells are pluripotent and can divide indefinitely to form more stem cells or they can differentiate and form any type of cell. Tissue stem cells are multipotent and can also divide to form more tissue stem cells however they can only differentiate into a subset of possible cell types. Differentiation involves "turning off" certain genes, the genes that are still "turned on" (expressed) determine the function of the cell.
+    
+    Somatic cells (2)
+    =============
+    Somatic cells are all the cells that are not germline cells. They are the most common type of cell and can divide by mitosis to form new somatic cells. They have a veriety of uses/functions, from neurons to red blood cells.
+    
+    Germline Cells (2)
+    ==============
+    Germline cells are gametes and the stem cells that divide to form the gametes. Gametes are haploid, however germline stem cells are diploid and can either divide by mitosis to form more germline stem cells or divide by meiosis to form haploid gametes. 
+    
+2)
+    a) Stem cells are unspecialised cells 0
+    b) Bone marrow 1
+    c) Unspecialised cells becoming specialised 1
+
+3)
+    a) mitosis 1
+    b) Some of the genes get turned off 1
+    c)
+        i)  A mutation occurs which means that the cell does not respond to the normal signals that regulate cells. This causes the cell to divide out of control.2
+        ii) Sometimes the cells in a tumour do not stick to themselves and flow around the body to form secondary tumours. 1
+    
+    d) Stem cells can be used to grow new tissue to repair damage where large areas of tissue is damaged. 1
+    
+16/19
+
+HW3
+1:
+    _DNA______________|_RNA____________ 
+    Double stranded   | Single stranded (1)
+    ATGC              | AUGC            (1)
+    Dexoyribose sugar | Ribose sugar    (1)
+    
+2:
+    A (1)
+3:
+    D (1)
+4:
+    i:
+        Arg Pro Ala Gly (1)
+    ii:
+        TCTGGCCGACCT (1)
+5:
+    a:
+        GCAAUG (1)
+    b:
+        i:
+            The introns and some exons have been removed by the transcription process, leaving less nucleotides (1?)
+        ii:
+            220 because 660/3 as each triplet/3 nucleotides codes for one amino acid. (1)
+7:
+    a:
+        i:
+            translation (1)
+        ii:
+            tRNA (0)
+    b:
+        CAU (1)
+8:
+    a:
+        i:
+            CBEFAD (2)
+        ii:
+            nucleus (1)
+        iii:
+            ABE (0)
+    b:
+        i:
+            isoleucine (1)
+        ii:
+            UGG (0)
+9:
+    i:
+        369 (1)
+10:
+    i:
+        translation (1)
+    ii:
+        peptide link (1)
+19/22
+
+
+DO RESEARCH PROJECT::Human condition caused by either single gene, frame shift or chromosome mutations. Produce a leaflet to put in a doctor's surgery explaining in detail the condition.
+nicola.moran@argyll-bute.gov.uk
+
+h(oi)w4
+
+1:D
+2:A
+3:B
+4:A
+5:C
+6:C(B?)
+7:B (0)
+8:no
+9:
+    a:translocation
+    b:95%
+10:u fuckin what m8
+
+8(18 max)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Missense: One nucleotide is replaced by a different one which results in a different amino acid being produced.
+Nonsense: Where a premature stop codon is created and the polypeptide chain is shorter.
+
+pogchamps in the house -AV
+Mitosis revision
+================
+
+1: Chromosomes are long and thin
+2: Chromosomes condense and become visible,. Nuclear membrane disintergrates
+3: Chromosomes replicate and are made up of 2 identical chromatids joined at the centromere
+4: Chromosomes line up at the equator and spindle fibres form
+5: Spindle fibres contract and pull the chromatids apart to oposite poles. Chromatids now refered to as chromosomes
+6: Nuclear membrane reformes round groups of chromosomes at each pole
+7: Cytoplasm splits to form two identical cells
+
+Celuler Differentiation
+======================
+
+Differentiation is when cells become specialised, genes are switched on (expressed) to produce proteins which allow the cell to function in a certain way.
+
+RNA
+===
+
+- mRNA carries information from the nucleus to the ribosomes. Every 3 bases is called a codon, which codes for a specific amino acid
+- tRNA carries amino acids to the
+- rRNA forms the ribosome with proteins
+
+Transcription
+=============
+1. RNA polymerase unwinds and unzips the DNA molecule at the location of the gene to be transcribed.
+2. Free RNA nucleotides from the nucleolus form weak hydrogen bonds with the complementary partners on the DNA gene that has been exposed.
+3. RNA polymerase forms string sugar phosphate bonds between the RNA nucleotides, forming a molecule known as the promary transcript of RNA.
+4. The primary transcript may then be spliced to form the final mature transcript known as mRNA.
+5. Triplet of bases on the mRNA is called a codon
+6. mRNA then leaves the nucleus through a pore in the nuclear membrane and entersthe cytoplasm.
+
+Splicing
+========
+
+some things (introns) and sometimes other things (exons) get delet
+
+Mutations
+=========
+some shit idk
+
+Chromosome structure mutations
+==============================
+1. Deletion      : ABCDEFG -> AEFG
+2. Duplication   : ABCDEFG -> ABCBCDEFG
+3. Inversion     : ABCDEFG -> ABEDCFG
+4. Translocation : ABCDEFG -> MNODEFG; MNOPQR -> ABCPQR (section added (well swapped) not from homologous partner)
+
+Metabolism
+==========
+All the enzyme controlled reactions that go on
+
+Catabolic: breaking down
+Anabolic : building up
+
+E.g. Respiration is a catabolic pathway: C6H12O6 + O2 -> CO2 + H2O
+
+C6H12O6  ATP      (e.g. proteins)
++ O2     ^ v      ^
+  \     /  \     /
+   \   /    \   /
+    \ /      \ /
+     |        |
+     |        |
+     |        |
+     |        |
+     |        |
+    / \      / \
+   /   \    /   \
+  /     \  /     \
+ v      ^ v       ^
+CO2     ADP + Pi  animal process
++H2O               (e.g. amino acids -> proteins)
+   
+===========================================
+NUCLEOTIDES CAN ONLY BE ADDED TO THE 3' END
+===========================================
+direction: 5' to 3'
+
+nucleotides made of sugar, phospahate and base 
+Notes on DNA replication
+Notes on DNA structure
+
+Induced fit
+===========
+basically, the substrate "fits in" very well and the enzyme slightly "tightens" around it.
+The substrate causes/induces the active site to change shape.
+
+Substrate has affinity for ("wants" to bind to) the enzyme.
+Active site is a similar shape but it changes to fit exactly with the substrate.
+
+Effect of increasing [substrate] (substrate concentration)
+
+Rate of reaction
+ |
+ |
+ |     (but curve)
+ |     _______  --- Here, all active sites are involved in the reaction
+ |   /
+ |  /
+ | /---Here, some active sites are still available 
+ |/
+ |---------------------------
+  Substrate concentration
+
+Beyond that, more enzymes needed to react with the substrate
+
+
+Respiration
+===========
+ - Enzyme controlled
+ - Glucose -> ATP (with steps)
+ - ADP + phosphate (inorganic) -> ATP
+        phosphorylation
+
+ATP
+---
+fuch u
+
+ATP Synthase
+------------
+fuck
+
+Reproduction
+------------
+Testes
+------
+Type of cells that spirm are produced in are called the seminiferous tubules (by meosis)
+tubules combine to form sperm duct
+Testosterone production in interstitial cells (between tubules)
+Seminal vesicles provide fructose rich fluid, produce prostaglandins which initiate female muscle contractions
+Prostate gland produces thin lubricating liquid, help sperm move more quickly, also enzymes that break down mucus
+
+Hormonal control of reproduction
+================================
+Hormones are produced by endocrine glands. 
+In reproduction, hormones control:
+    - The onset of puberty
+    - Other hormone production
+    - The menstrual cycle
+    
+
+Monohybrid cross
+================
+
+tounge rolling is the dominany characteristic. A true breeding toung roller (R) and a true breeding non-roller (r) interbreed. What is the phenotype ratio of the F2?
+
+P phenotypes  :  Toung roller    x     Non roller
+P genotypes   :  RR              x     rr
+F1            : Rr         Rr          Rr         Rr
+
+F1 genotype   : Rr  x  Rr
+F1 gametes    : R|r x  R|r
+
+
+ | R | r
+-|---|--
+R|RR |Rr
+-|---|--
+r|Rr |rr
+
+F2 genotype ratio
+1 : 2 : 1
+RR  Rr  rr
+
+F2 phenotype
+3 rollers : 1 non roller
+
+The number of F2 who could roll their tounge was 5 and the number of non-rollers was 3. Why was the ratio in F2 different than predicted? Fertilisation is a random process
+
+
+  H   h
+h Hh hh
+
+h Hh hh
+50%
+
+  H   h
+h Hh hh
+
+h Hh hh
+50%
+
+  H   h
+H HH  Hh
+
+h Hh  hh
+75%
+
+  h   h
+h hh hh
+
+h hh hh
+0%
+
+Sex Linked Cross
+================
+in smol fruit flys the allele for red eyes is dominant (R) to the allele for white eyes (r). The gene for eye colour is sex linked. A white eyed female was crossed with a red eyed male. What is F2
+
+P phenotype  red   x   white
+P genotype   XRY       XrXr
+P gametes    XR|Y      Xr
+
+F1 Genotype  XRXr|XrY (1:1)
+
+F1 crossed
+
+F1 gametes   XR|Xr     Xr|Y
+
+     Xr     Y
+
+XR  XRXr   XRY
+
+Xr  XrXr   XrY
+
+F2 Genotype: XRXr : XRY : XrXr : XrY
+              1   :  1  :  1   :  1
+F2 phenotype: 1 red-eyed female : 1 red-eyed male : 1 white-eyed female : 1 white-eyed male
+
+
+What
+1) The sperm is produced in the seminiferous tubules
+2) Testosterone is produced in the interstitial cells
+3) The prostate gland seminal vesicles
+4) The chemicals contribute to fertilisation as they cause female muscle contractions
+5) folicle 
+1) B
+2) D
+3) D
+4) A
+5) C
+6) D
+7) 
+    a) They can differentiate into other types of cell
+    b) Tissue stem cells can only differentiate into a specific subset of cell types as opposed to embryonic stem cells which can differentiate into any cell type
+    c)
+        i) Stem cells that can differentiate to form muscle tissue must be sourced from the patient and transplanted into the damaged muscle tissue and stimulated to repair the tissue
+        ii) They can be differentiated to form the type of cell that is needed
+
+8) C
+9) C
+10) C
+11)
+    a)
+        i) GUGCUAGCUAUCCUA
+        ii) exons
+        iii) splicing
+        iv) GCUA
+    b) ribosome
+12) 
+    a)
+        i) hydrogen bonds
+        ii) hydroxyl(OH)
+    b)     
+12)
+Structure of DNA
+----------------
+DNA is a double-helix shape where each of the strands are made up of bases, deoxyribose sugar and phosphate. The DNA bases come in pairs where Adanine is only found bonded to Thyamine, and cytosine is only bonded to guanine. DNA is often found tightly coiled up in a chromosome however when it needs to be copied or read it is unwound so that DNA polymerase or RNA polymerase can read the DNA.
+
+DNA replication
+---------------
+First, the DNA is unwound from the chromosome and RNA polymerase "unzips" the double helix to form two strands. Nucleotides form hydrogen bonds with their opposite on the DNA strand, and the RNA polymerase forms the sugar phosphate around them. Then the resulting molecule is spliced so that only the exons remain and the introns are removed.
+
+Section 1
+
+1) A
+2) B
+3) A
+4) D
+5) C
+6) C
+7) B
+
+Section 2
+
+1)
+    a)
+        i) see sheet
+        ii)
+            1) Inhibit the production of ICSH by the pituitary
+            2) Stimulate the seminiferous tubules to produce sperm
+        iii) Testosterone is produced by the intersticial cells when they are stimulated by ICSH by the pituitary however if the levels of testosterone are high it inhibits the production of ICSH, that means that if the levels of testosterone are low the pituitary produces lots of ICSH stimulating the interstitial cells to produce testosterone
+    b)
+        AI increases the chance of fertilisation by allowing sperm collected over a period of time to be used in fertilisation at once increasing the number of sperm available to fertilise the egg
+
+        ICSI increases the chance of fertilisation by injecting the sperm directly into the cytoplasm of the egg and therefore meaning that the number of sperm required is greatly decreased.
+
+2)
+    a)
+        i)
+            Similarity: Both trends have a steady decrease between 28 and 46 years
+            Difference: The pregnancy rate has a sharp peak at 28 years whereas the birth rate remains more level during that time
+            
+        ii) 350
+    b)
+        i) 29% 
+        ii) The older a woman gets the more likely it is that the eggs produced will have genetic abnormalities leading to a lower birth rate as compared to using donor eggs.
+
+    c) PGD is offered if either partner has a history of inherited genetic conditions in their families or have the conditions themselves.
+
+3)
+    a)
+        An autosomal disorder is on a chromosome which is not the sex chromosomes whereas a sex-linked disorder is caused by a gene on a sex chromosome (specifically the half of the X chromosome that does not have a homologous pair)
+    b)
+        i) A a
+        ii) Individuals Q and R come from families where both parents are heterozygous for ADA deficiency, which means their genotype cannot be determined as it could be AA, Aa or aa. This means that it is dificult to predict if their children will have the disorder since the genotype of the children's parents is not known for certain.
+
+    d)
+        advantage: amniocentesis has a decreased chance of miscarriadge
+        disadvantage: 
+
+4)
+    a)
+        i) postnatal genetic diagnosis
+        ii) A special diet can be used to avoid phenylalanine and the proteins that are metabolised to form it
+
+   b) 25%
+1)
+    b) 3000s or 50m
+    c)
+    d) The blood spot contains DNA that when copied with PCR can be sequenced and compared to the suspects' DNA to see who dunnit
+
+2)
+    a)
+        i)
+            A substitution means that a nucleotide was swapped for another one which would change the amino acid that the codon coded for and thus change the enzyme
+        ii) what I already did ):
+
+    b)
+        i)  IF enzyme 1 is faulty then phenyalanine cannot be converted into tyrosine but phenyalanine keeps being produced leading to a buildup of phenylalanine
+        ii) Dietary protein is not only converted to phenyalanine, but also to tyrosine which can be converted to melanin
+
+3)
+    a) temperature, nutrient gel
+    b)
+        ii) As the UV exposure time increases, the number of colonies alive decreases.
+        iii) Have multiple repeats
+    c)
+        i) 400%
+        ii)For a time of 30 minutes using SPF 15 the number of colonies alive (72) was very close to the maximum of 75 therefore there is not much benifit going over SPF 15 for a time of 30 minutes
+        iii) 350 minutes
+
+4)
+    a)
+        i) 742
+        ii) from 0 to 7 years the percentage decreases from 100% to 62% and from 7 to 9 years the percentage stays steady at 62%
+    b)
+        Cancer develops when a mutation causes the cell to not respond to normal signals and divide out of control. Cancer can start off in one place but some parts of the tumour can break off and travel around the body through the blood producing secondary tumours.
+
+5)
+    a)
+        i) in the cytoplasm
+        ii) 2 ATP are used to convert the glucose into 2 3-carbon molecules
+
+    b)
+        i) NADH
+        ii)
+        iii) Oxygen cannot be supplied to the cell fast enough so it anaerobicly respires producing lactic acid
+
+6)
+    a) It produces ATP
+    b) to remove the hydrogen from the molecules
+    c) glucagon
+    d) glucose-6-phosphate dehydrogenase is used for the production of both ATP and nucleic acids, nucleotides and lipids; all of which are used in cell division therefore if there is no glucose-6-phosphate dehydrogenase it will decrease cell division rate
+
+7)
+    a) lactic acid
+    b) Marathon: slow twitch because in a marathon there is a need for a long time of energy release and high endurance rather than the powerful but short lived energy release of fast twitch fibres.
+
+8) B
+i)
+    glycolysis is the process where glucose gets converted into pyruvic acid. There are two main stages of glycolysis:
+    Energy investment stage:
+        this is where two molecules of ATP are used to bind two inorganic phosphates to the molecule of glucose and split it into two 3 carbon molecules.
+    Energy payoff stage:
+        The two 3-carbon molecules are then converted into two pyruvate molecules releasing a total of 4 molecules of ATP per glucose molecule. That gives a net gain of 2 ATP per glucose molecule.
+
+ii)
+    The citric acid cycle is a cycle where pyruvate gets converted into carbon dioxide and water, releasing ATP and H3O+ ions (in the form of NADH) in the process. In the first stage, pyruvate gets converted into a 2-carbon molecule, releasing CO2. This also produces one molecule of NADH. The acetyl (2-carbon) molecule joins onto an enzyme to form acetyle-coA. That then joins on to a oxaloacetate molecule forming a citriate molecule and regenertaing the enzyme. Then carbon atoms get repeatedly removed (to form CO2) and NADH molecules get generated and also one molecule of ATP is generated until the citrate molecule is converted back into the original oxaloacetate molecule and the cycle can start again.
+
+iii)
+    In the inner membrane of the mitochondria, there are enzyme "pumps" that use high energy electrons to move H+ ions into the space between the inner membrane and the outer membrane. These high H+ ions then flow down through an enzyme called ATP synthase causing it to rotate and ADP + Pi to be converted into ATP. This is the stage that generates the most ATP. 
+
+Public Sector
+=============
+Organisations owned by the government on behalf of the taxpayer. They aim to provide a service to the public. They are funded by taxes that individuals and businesses have to pay.
+
+- Local Authorities
+- Scottish Parliament
+- UK National Government
+
+3rd Sector
+==========
+
+This sector contains profit and non-profit making organisations.
+Charities and volentary organisations are set up to support specific causes.
+
+Social enterprises:
+Make a profit, run in a business like way; have a social or environmental aim similar to a charity; At least half of the profit they make is put back into the cause; They don't rely on grants or donations like charities do.
+
+Customer satesfaction
+=====================
+
+How do you make customers satesfied?
+------------------------------------
+High quality products
+Make sure employees are trained
+Having a customer care strategy
+Having a customer complaints procedure
+
+Why do you want satesfied customers?
+------------------------------------
+They become loyal to the business and increase the chance of repeat sales
+It gives the business a good reputation therefore more people will come to the business 
+It helps increse market share (more customers)
+
+Business Objectives
+===================
+Something a business aims for, a target or goal to be achieved. Objectives help a business focus on what it's doing.
+
+Objectives:
+    - Survival: Continue trading, often the first objective
+    - Profit:   Main objective of a business in the private sector.
+    - Provision of a service: Providing people with a service that they want or is important to society
+    - Customer satesfaction : tl;dr
+    - Social responsibility : To be seen in a positive way by not harming the environment or the community
+    - Enterprise/Innovation : Come up with new ideas i think
+    - Increase market share : Increasing the amount of customers it has
+    - Become market leader  : Having more customers than the competitors
+    
+External Factors
+================
+External factors are things outside of the control of a business that impact how it operates.
+They are often referred to as PESTEC:
+Political
+Economic
+Social
+Technological
+Environmental
+Competitive
+
+Political Influences
+--------------------
+Come from the actions of the government
+Government could introduce a new law which prevents a business from doing something
+Planning permission: new laws can impact businesses
+Tax
+
+Economic Influences
+-------------------
+Anything that encourages people to spend or not spend money
+
+Social Influences
+-----------------
+Those concerned with changing opinions, valuess and people's beliefs.
+
+Technological Influences
+------------------------
+Technology is changing rapidly and has a huge impact on business.
+
+Environmental Influences
+------------------------
+Weather
+eco friendly-ness
+
+Competitive Influences
+----------------------
+Are competitors better than us?
+More locations?
+Cheaper goods?
+Better special offers?
+Higher quality service?
+
+Internal Factors
+================
+Financial: availability or lack thereof of finance
+Human Resources: The employees and managers within a business
+Current technology: Technology being used inside a business
+
+Stakeholders
+============
+A stakeholder is a person or a group who have an interest in the success of a business. Stakeholders can influence the business.
+
+Owners
+Shareholders
+Employees
+Banks - financial services, lend business money, want money to be payed back
+Customers
+Suppliers
+Local community
+Local government
+National government
+Pressure groups - organisations that try to influence other organisations
+
+                      _        _   _             
+ _ __ ___   __ _ _ __| | _____| |_(_)_ __   __ _ 
+| '_ ` _ \ / _` | '__| |/ / _ \ __| | '_ \ / _` |
+| | | | | | (_| | |  |   <  __/ |_| | | | | (_| |
+|_| |_| |_|\__,_|_|  |_|\_\___|\__|_|_| |_|\__, |
+                                           |___/ 
+=================================================
+
+Aims of marketing
+    - to identify consumers' requirements
+    - to anticipate consumers' requirements
+    - to satesfy consumers' requirements
+    
+
+
+Fuckin marketing task thing
+
+thread thread thread therad thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread thread
+
+Good?
+
+mcdonalds competition thing
+-none of it lmao I mean I think I died
+-Lots of people, probably aimed a bit towards children idk
+-Costs: prizes, different packaging and running the competition probably using computers etc.
+
+Why is marketing important?
+===========================
+
+- Attracts new customers by letting them know about products
+- Allows the business to enter new markets
+- Helps the business grow
+- Can increase the profit of a business
+
+Market Segmentation
+==================
+Busineses often fucus their product and/or marketing towards a specific group of people. This is known as their target market or market segment.
+
+Why might a business have a target market?
+==========================================
+- To make sure the product is suitable and specific to their needs
+- To make sure the product is sold in the most suitable place
+- To set prices to reflect the segment
+- To make sure advertising and promotion are correct
+
+The Marketing Mix
+=================
+Place, Price, Promotion, Product
+Product: Actual item; must be what the customer wants; market research helps a business identify whtat the customer wants
+Price: How much a business charges for the product; must be at a price the customer will buy at
+Place: where the product is sold; must be accessible to customers
+Promotion: How the customers area told that the product exists and encouraged to purchase; includes advertising, special offers, free samples.
+
+Product
+=======
+
+product development
+-------------------
+Before a product is made available to consumers in a market it has to go through development.
+1. Market research is carried out to find out what the consumer wants
+2. Ideas for the product are generated based on market research information
+3. Create a prototype
+4. Test marketing: customers get to try out the product and provide feedback
+5. Changes might be made to the product after the prototype has been created based on the feedback
+6. Decide on method of production
+7. Decide on price
+8. Decide on place to be sold
+9. Decide on methods of promotion
+
+Risks of developing a new product
+---------------------------------
+Customers might not want it
+Money spent developing it may be wasted
+Reputation of the business could be damaged if nobody wants it or the quality is bad
+
+Companies use product lifecycles to:
+    - determine the future of their products
+    - decide when to introduce new products
+    - decide when to withdraw products in decline
+    - decide what products to invest in
+
+Branding
+========
+
+The aim of branding is to distinguish the product from its competitors and make it instantly recognisable to the customer.
+Recognisable name; Recognisable logo
+
+Businesses have a brand for a number of reasons
+--
+It's recognisable to customers and can act as a marketing and promotional tool;
+This can help distinguish a business from its competitors;
+Encourages customers to become brand loyal;
+Higher prices can be charged for branded products;
+New products can be introduced to the market easily because the brand name is already well known and people trust it;
+
+Disadvantages to having a brand
+-------------------------------
+If a product fails it could damage the reputation of the whole brand
+Some people try to copy brands or do fakes
+Establishing a brand is time consuming and expensive
+
+
+Packaging
+=========
+Advantages
+    - Can be unique and make the product stand out or be recognisable
+    - It can be aimed towards a target market
+    - It protects a product and keeps it fresh
+    - Helps with the transportation
+    - Can put information on packaging
+    - Can put promotions on packaging
+Disadvantages
+    - It can effect the environmet if it's not recyclable
+    - ^^ could effect the reputation of a compan
+    - It could be expensive
+    
+Supermarket Own Brands
+======================
+
+fick
+
+Price
+=====
+Deciding how much to charge for a product is not as easy as you might think. A bussiness has to take into account different factors when setting a price
+
+- Lifecycle of the product
+    - decrease price if it's in decline
+    - either have price high at launch (if people are very likely to buy) or low (if it's something new that needs exposure)
+
+- Price charged by competitor
+    - Make sure the price is not more than comptetitors or may lose customers to competitor
+    
+- How much it costs to make
+    - Must cover costs or could make a loss
+    
+- How much profit one wants to make
+- Market segment the product is aimed at
+
+Describe factors a business should consider when deciding on the price of a product.
+
+They would have to take into account the prices charged by the competitor becausse if they are more expenive than the competitor consimers may buy from the competitor.
+They would consider the cost of producing the product because if the prices are too low they might make a loss and have to close.
+They would have to consider the lifecycle of the product because if it is in decline they might want to lower prices to slow/stop the decline.
+
+Pricing Strategies
+==================
+Promotional Pricing
+    - The price charged is lower than usual for a short time
+    - product is perceived as better value
+    
+Cost-plus pricing
+    - Cost of manufacturing/buying is measured then a certain percentage is added on
+    
+Phsycological pricing
+    - Price charged by business makes consumer think that the product is cheaper than it is
+     
+Premium pricing (basically stealing)
+    - basically tricking the customer into thinking the product is better just based off of the price being high
+    
+Low price strategy
+    - Price charged is lower than competitors
+    
+Competitive pricing
+    - Price charged is similar to competitors
+
+Place
+=====
+
+Business Location
+    - The business has to decide on a place to be located
+    - This means where they have their shop or where they sell their product
+    Factors when deciding location
+        - where the customer is
+        - availability of premises
+        - parking facilities
+        - Suitable infrastructure (roads, water, electric, internet)
+        - Government incentives or grants
+        - Market segment & footfall
+        - Employee availability
+        - Competition
+        - Environmental impact
+
+E-commerse: buying/selling things online
+Advantages
+    - Customers worldwide can be targeted
+    - Customers 24/7
+    - Online discounts can be given
+    - Product information can be updated quickly
+    - Product information is more clear to customer
+    - Check stock easily
+    - businesses dont have to pay to have a shop (possibly)
+Disadvantages
+    - Goods cannot be seen or handled before purchase
+    - Technical problems may occur when purchasing
+    - No personal contact with company or customer
+    - Could be expensive for customers to have internet access (not really)
+
+Distribution methods
+====================
+Road
+    - Advantages
+        - Often cheaper than other methods
+        - Fairly quick
+        - Can deliver to very close to required location
+    - Disadvantages
+        - Difficult to transport large products
+        - Not very envoronmentally friendly
+        - Roadworks or traffic could cause delays 
+
+Train
+    - Advantages
+        - Large products can be transported
+        - Large quantities can be transported
+    - Disadvantages
+        - There isn't a train station at every location
+        - Not a door-to-door service
+
+Aircraft
+    - Advantages
+        - Very fast
+        - Products can be transported over huge distances over land or sea
+        - Large amounts of small products can be transported
+        
+Boat
+    - Advantages
+        - Large products can be transported
+        - Products can be transported across the work
+    - Disadvantages
+        - It is time consuming to transport products long distances
+        - It is not door to door
+        
+Promotion
+=========
+Promotion is any form of communication used in an attempt to draw attention to a product or service.
+
+Advertising
+===========
+
+Email advertising
+    - Advantages
+        - Customers can sign up therefore only those interested get it
+        - The same email can be sent to lots of people at once
+        - Files can be attached
+        - Emails can be sent worldwide instantly
+        - It's environmentally friendly compared to printing leaflets
+    - Disadvantages
+        - Receiving lots of emails might become frustrating or irritating to the customer
+        - Viruses can be spread through email
+        - Some email providers might filter the messages as spam
+
+Apps
+    - Advantages
+        - uhhh
+    - Disadvantages
+        - People need smartphone: expensive
+        - U nee a fuckin software developer m8
+        - Internet connection is not relialbe
+
+TV advertising
+    Advantages
+        - Many people will see it
+        - Can be roughly targeted based on program on TV
+        - demonstrations can be given
+    Disadvantages
+        - Very expensive
+        - People might not watch them
+        - Adverts usually quite short
+
+Newspaper/magazine advertising
+    Advantages
+        - Specific location of customer can be targeted
+        - Adverts can be kept for later
+        - Lots of information can be given
+    Disadvantages
+        - Not all newspapers available in colour
+        - No sound or video
+        - Some papers can be expensive to buy and/or advertise in
+
+Radio advertising
+    - not really advertising, just people talking about the product/service and providing a report on it
+    Advantages
+        - Free advertising if report is positive
+        - Large audience
+    Disadvantages
+        - Not all reports are positive
+        - The whole situation might not be reported, might be misleading
+
+Market research
+===============
+
+why?
+    - make sure they provide the goods and services the customers want
+    - Make sure they keep ahead of the competition.
+Types
+    - Desk research - gathers secondary information
+        - Methods
+            - Sales figures
+            - Newspapers
+            - Websites
+            - Government publications e.g. social trends
+            - Commercial publications
+        - Advgantages
+            - Saves time
+            - Inexpensive
+            - Widely available
+        - Disadvantages
+            - Not specifically gathered for the business
+            - May be out of date
+            - May contain bias
+    - Field research
+        - Gathering new information by carrying out surveys, interviews and observations. This gathers primary information.
+        
+                            _   _                 
+  ___  _ __   ___ _ __ __ _| |_(_) ___  _ __  ___ 
+ / _ \| '_ \ / _ \ '__/ _` | __| |/ _ \| '_ \/ __|
+| (_) | |_) |  __/ | | (_| | |_| | (_) | | | \__ \
+ \___/| .__/ \___|_|  \__,_|\__|_|\___/|_| |_|___/
+      |_|      
+==================================================
+
+Operations is the process of using resources and adding value to them to make a product or provide a service that consumers want to buy. It is also known as production.
+
+INPUTS -> PROCESS -> OUTPUT
+
+ limited company is owned by shareholders which could be expensive
+                      - Price charged by business and have the customer satesfaction
+         - Not all report is positive light by not harming the competitors' price
+    - Adverts can be given
+    Disadvantages
+           - Make sure the products can be access it from any time; could encourage personal interviewer can encourage personal interviews
+           - No sound or video
+        - Emails could use celebrety endorsement and starts to grow; growth: the product is sold; must be access it from any time; could encourage personal interviews
+       - Emails could be expensive
+          disadv: they might be misleading
+
+Market segment & footfal because they sell secondary information can be access it from any time; could be expensive
+       - It could encourages customer
+    - to satesfying consumer think that the customers will not be specific to the product are generated
+2) Test marketing is whereas private sector
+  
+Suppliers
+=========
+
+Purchasing mix
+--------------
+(Factors when choosing a supplier)
+- Price/Cost of raw materials
+- Quality fo raw materials
+- Lead time/delivery time
+    |-> Lead time is time from ordering to delivery, includes delivery time & time to dispatch/manufature
+- Quantity of raw materials
+- Location of the supplier
+    |-> Linked to lead time/delivery time
+- Reliability & reputation
+- Storage space available
+
+Inventory/Stock Management/Control
+=======================
+Optimum/Economic stock level: most suitable level of stock to hold
+
+Inventory Control Diagram
+
+Stock level
+    |
+    |_______________________________________maximum stock__
+    |\      |\      |\      |\      |\      
+    | \     | \     | \     | \     | \     
+    |  \    |  \    |  \    |  \    |  \   
+    |   \   |   \   |   \   |   \   |   \   
+    |____\__|____\__|____\__|____\__|____\__reorder level__
+    |     \ |     \ |    |\ |     \ |     \ 
+    |______\|______\|____|_\|______\|______\__minumum stock_
+    |                    |  |
+    |                    |<>| lead time
+   0|____________________|__|______________________________
+                            
+If a business has too much or too little stock there are consequences
+
+Methods of Production
+=====================
+
+There are three main production methods
+   |-> Produce each item individually (job production)
+   |    |-> Each product is made individually to meat each customer's specific needs.
+   |    |-> Advantages
+   |    |    |-> Customer gets exactly what they want
+   |    |    |-> High prices can be charged because a unique product is being made
+   |    |    |-> Designs can be changed to meet customers own requirements
+   |    |-> Disadvantages
+   |    |    |-> Can take a long time to make a unique product 
+   |    |    |-> Can't buy raw materials in bulk -> less decounts
+   |    |    |-> Special tools and materials mightbe needed which could be expensive 
+   |
+   |-> Produce items in batches (batch production)
+   |    |-> A number of identical/very similar products are produced at once
+   |    |-> Advantages
+   |    |    |-> Batches can be changed to suit the requirements of the customer
+   |    |    |-> Raw materials can be bought in bulk saving money
+   |    |    |-> Less ened for highly skilled workers so saving money
+   |    |-> Disadvantages
+   |    |    |-> Equipment and employees might not have anything to do between batches but still have to get paid
+   |    |    |-> Any mistakes in one item can result in the whole batch being wasted
+   |    |    |-> Cist if each item might be high if the batch size is small
+   |
+   |-> Produce items continually (flow production)
+   |    |-> Products are continuously moving along a production line through different stages of production.
+   |    |-> Advantages
+   |    |   |-> Large amounts of identical products are made
+   |    |   |-> Raw materials can be bought in bulk saving money
+   |    |   |-> Often uses lots of machinery which do not need breaks compared to humans
+   |    |-> Disadvantages
+   |    |   |-> Individual customers' needs cannot be met since each product is identical
+   |    |   |-> If a fault occurs it could cause the entire production line to have to stop
+   |    |   |-> Large demand for products is needed because they're made in large quantities
+
+How to produce it
+=================
+
+Capital intensive: mostly machines are used
+Labour intensive:  mostly people   are used
+Automated - Capital has replaced the need for humans to carry out the work
+Mechinisation is where people work with the machines
+
+Factors to consider when choosing a method of production
+========================================================
+- Finance available
+- Quantity demanded
+- Technology
+
+Quality
+=======
+
+The advantages of providing high quality are:
+    - Customers are likely to make a repeat purchase
+        - This will result in an increase of sales
+    - A good reputation is gained, encouraging new customers
+        - This will result in an increase of market share
+    - Wastage will be minimised
+        - This is good for the environment
+        - Costs reduced since waste is reduced
+    - Easier to recruit staff to work somewhere with a good reputation
+    
+Methods of ensuring quality
+    Quality inputs
+        - Use of raw materials that are high quality         
+        - Make sure employees are skilled and train them
+        - Ensure machinery and other technology is maintained
+    Use quality control
+        - checking product at beginning and end of production
+    Use of quality assurance
+        - Checking quality after every stage in production
+    Use quality management
+        - employees responsible for quality (getting it right every time)
+        - Often uses quality circles
+
+Sign up to quality standards or symbols
+
+Tehcnology & Operations
+=======================
+    - Computers & the internet can be used to order materials
+    - Email can be used to confirm an order
+    - Websites can be used to compare prices
+    - Deliveries can be traced online (tracking)
+    - Databases can be used to track stocl levels
+    - EPOS to give automatic updates to stock levels
+    - CAD
+    - CAM
+
+Ethical and environmental operations
+    - Minimise waste
+    - Recycle as much as possible
+    - Minimising packaging
+    - Prevent pollution
+    - Reduce carbon footprint
+    - Pay fair wages
+    - Have high farm standards
+    - Not using child labour
+
+The Recruitment Process
+=======================
+
+
+The Selection Process
+=====================
+
+Once applications have been recv'd, the best person for the job has to be selected.
+
+- Shortlisting
+    - The business will look at all the applications and create a list of people who're thought to be best suited for the job.
+- References
+    - A report from a previous employer, school or college about a person
+- Interview
+    - A meeting between an applicant and people from the business
+    Adv
+        - Personality and appearance can be seen
+        - Content of the application/CV can be checked
+        - THe applicant can ask questions
+    Disadv
+        - Time consuming
+        - Some people don't perform well at interviews
+        - Interviewer bias can exist
+
+- Tests
+    - Tests can assess a number of things, e.g. medical, personality or specific skills
+    Adv
+        - Content of CV/application can be checked
+        - Can provide info about the personality of the applicant
+    Disadv
+        - Time consuming to carry out
+        - Stressful for the applicant, unrealistic stress for the job, might perform poorly
+p29
+1) private sector, public sector, 3rd sector
+2) A partnership is a business owned by 2-20 partners which have unlimited liability
+   A private limited company is owned by shareholders and has limited liability
+   
+3) A sole trader is owned by the individual sole trader whereas a private limited company is owned by shareholders. A sole trader is controled by the individual whereas a private limited company is controlled by a board of directors.
+4) In a partnership everyone has to agree and if there is a disagreement it can take time to sort out the issues in meetings.
+5) A private limited company has limited liability therefore if the business fails, shareholders only lose the money they invested rather than their personal funds
+   A private limited company can have more than 20 owners/shareholders which can bring in more funding
+   
+6) Scottish government
+7) Roads, schools
+8) A social enterprise is an organisation with a social or environmental aim run in a business-like way
+9) A charity relies on donations and grants whereas a social enterprise seeks to make a profit and run in a business-like way
+10) Grants, donations
+
+
+Thing on p31
+
+Task 1
+
+Objective            | Private | Public | Third
+---------------------|---------|--------|------
+Survival             |    X    |        |   X
+Profit               |    X    |        |   X
+Provision of service |         |   X    |   X
+Customer satesfaction|    X    |   X    |   X?
+Enterprise           |    X    |        |   X?
+Social responsibility|    X    |   X    |   X?
+Market share         |    X    |        |      
+
+
+Qs
+1) A document that outlines how the customer should be treated
+2) It increases customer satesfaction; Increases customer loyalty
+3) Survival means the business continues trading and doesn't go bankrupt
+4) turnover - spendings
+5) It increases the reputation of the business which means more customers will come there and also it increases repeat sales
+6) Your sales and all of your competitors' sales
+7) To be seen in a positive light by not harming the community or the environment
+8) To have the majority of market share
+
+Case study
+1) Sole trader
+2) Michael Golding
+3) Service because he is not producing a product
+4) Private
+5) no
+6) He enjoyed going to the gym; and he thought the risks of starting the business were outweighed by the benifits
+7) When starting a business, often for a while they don't make a profit. This is a risk because Michael only has a certain amount of money to spend and if the business doesn't make it then he loses all his money.
+8) He worked very hard at the start to make sure the business doesn't fail.
+9) Hard working; good at providing good customer service
+10) 
+
+
+p45
+1) An internal factor is a factor within the control of the company, whereas an external factor is a factor outside of the control of the business.
+2) 
+
+p56
+1) The act of identifying, predicting and satesfying consumers' requirements.
+2) A market is a place where buyers and sellers meet
+3) I dont fuckin know
+4) life, the universe, and everything
+5) yes
+6) Merketing shows potential customers the product so they might buy it
+7) by attracting more customers as in 6)
+8) 
+
+
+p64
+1)
+    - Market research is carried out
+    - Ideas for the product are generated
+2) Test marketing is where a product is tested out on a group of people and their opinions are gathered
+3) 
+    - It could fail i.e. lose money spent developing it
+    - It could damage the repuatation of the company if it is of poor quality
+4)
+    - Introduction
+    - Growth
+    - Maturity
+    - Decline
+5) Introduction
+6) Maturity
+7) Growth
+8) 
+9) 
+    - Makes the product recognisable to consumers
+    - Help distinguish product from competitors
+10)
+    - If a product fails it can damage the entire business' reputation
+    - Copies or fakes of a brand are common
+
+Pastpaper 2017
+1)a)ii) Branding helps Charls MacLeod Butcher by making it easily recognisable; 
+
+
+p66
+1)
+    -cost of manufacture
+    -competitors' price
+    -how much profit is wanted
+
+2)
+    -high price
+    -low price
+    -competitive price
+
+3)
+    Cost-plus pricing takes the price of manufacture of the product then adds a percentage to it as profit. This makes sure that they cover their costs and make a known amount of profit.
+4)
+    Because if a business charges too little money for a product they might make a loss and have to close
+5)
+    Price will decrease as the business wants to increase demand by offering more competitive prices
+6)
+    To trick the customer into thinking the price is cheaper than it actually is
+
+
+Businesses need to consider employee availability when choosing a location because if there are not enough employees or the employees do not have the correct skillset the business could strugle to function.
+
+Businesses need to consider the infrastructure in terms of roads when choosing a location because if the location doesnt have the correct infrastructure the business will not be able to operate machinery or have other problems such as not being able to get vehicles to the premises. 
+
+p70
+1. Infrastructure, employee availabiliy, environmental impact
+2. Infrastructure is the services such as electricity, water, roads, railways that are available in an area
+3. The employees are very important to a business' success, therefore it is vital to find an area where employees have the required skillset in the required numbers.
+4. If the business causes a bad environmental impact that could negetively influence their reputation and cause a loss of sales.
+7. No because some products are digital and can be accessed over the internet
+
+p75
+1. No promotion is about any method of communicating the product's existance to the customer
+2. TV advertising, email advertising, radio advertising
+10. A large sign dedicated to advertising usually around roads that usually have lots of pictures and not many words.
+
+p78
+1. Sole trader
+2. 3rd sector
+3. People who want to get fit in the Glasgow area
+4. i) he wanted to make his business idea a reality; ii) he wanted to have some extra income
+5. Communicating with customers; promotion and marketing techniques
+6. Adv: potential for lots of people to see & share; disadv: people might give bad reviews/comments
+7. Adv: customers have the chance to try out the service and may come back again; disadv: the business makes a loss on the free trial
+8. Email marketing because emails could be sent to people visiting sports websites.
+
+Pastpaper
+1d) They could offer buy one get one free deals which could encourage customers to buy more products; They could use advertising to promote their business; they could use celebrety endorsement and sponserships.
+2c) it is important that CHAS's premises have a high footfal because they sell second-hand items and that relies on people coming past the shop;
+    A
+
+
+p84
+1) market research is the research carried out by a business to determine information to help them with creating a new product or continuing to market an existing product.
+2) To make sure the goods/services are what the customer wants; to keep ahead of the competition
+3) Desk research: where the business gathers secondary information that has already been made available by another party. Field research: where the business gathers new primary information and statistics
+4) Reletively cheap since it can be done easily and quickly; widely available since there are many sources.
+5) Information will be specific to the business since it is specifically gathered by the business; information will not be out of date since it is gathered as it is needed
+6) Information may be out of date because it was gathered in the past; information may not be specific to business since it was gathered by a 3rd party
+7) Reletively expensive since the information has to be gathered by the business; Can be time consuming since everything has to be gathered from scratch
+8) information expressed in words
+9) information expressed in numbers
+10) focus group is where a group of people are gathered to discuss their opinions/beliefs; Online survays are where people answer a number of questions online; personal involves a face to face discussion between two or more people.
+
+1 (&2) Personal interview where a face-to-face discussion occurs and the interviewer asks specific questions
+    - Costs:
+        - may be timeconsuming to inverview people one by one
+        - interviewer needs training & may have bias
+    - Benifits:
+        - interviewer can clarify anything that isn't understood
+        - interviewer can encourage person to answer questions
+
+Telephone survay where people are contacted by telephone and asked a series of questions
+    - Costs:
+        - People may not want to participate as the call may be at an inconvenient time
+        - People may not participate in longer survays
+    - Benifits:
+        - reletively cheap compared to personal interviews
+        - Large number of people over large area can be contacted
+
+Social networking uses social media to gather feedback
+    - Costs:
+        - Customers might not want to participate in the social media of a business
+        - Information is not private and can be viewed by anyone
+    - Benifits:
+        - Two way interaction between business and customers
+        - Very large number of people can be reached
+        
+3) price product place promotion
+4) introduction: the product is introduced to the market and starts to grow; growth: the product is rapidly gaining market share; maturity: sales are high but not growing; decline: sales are decreasing as the product gets older.
+5) use of social media can help with market research; online advertising can reach a large audience
+
+p33 key questions
+1) 
+
+PastPaper
+1) a) i) people near aberdeen who don't know how to drive and are likely under 20
+      ii) having different products for different customers allows the business to more closely match what the customer wants and increase customer satesfaction
+   c) It allows more people to find the business; information can be updated quickly; customers can access it from any time; could reach people anywhere;
+   d) i) third/tertiary sector
+      ii) this sector provides a service to customers
+
+2)
+    a) i) to provide a service which supports the learning of children and adults
+       ii) 
+    b) adv: they get money to allow them to expand into england
+       disadv: they must give up 10% of the business
+    c) adv: more people to share the workload with; more finance available;
+       disadv: more people to share the profits with; more risk of having a disagreement
+    d) Customer interested in a high quality service; Employees interested in getting paid; government interested in taxes
+
+    e)
+        adv:
+            limited liablility means the owners are not personally responsible for the business and will only lose the money invested if the business fails
+            
+        disadv:
+            limited companies are more difficult to set up compared to sole traders or partnerships
+            limited companies have to publish their finances and other information every year
+
+3)
+    a) 
+
+    b) Environmental issues, lack of finance from donations, political factors since government support decreased
+    c) Charities are owned by trustees whereas private limited companies are owned by shareholders
+       Charities are controlled by managers whereas private limited companies are controlled by a board of directors
+
+
+Explain factors to be considered when choosinh a supplier of raw materials (5)
+
+Lead time is a factor that must be considered because if the lead time is too long the business might have to stop production which can be costly due to having to pay employees when they can't produce any products.
+The quality of the raw materials must be considered since bad quality materials make bad quality products which will reduce customer satesfaction leading to lower sales
+The quantity of raw materials available must be considered since the supplier must be able to supply enough raw materials to keep production going but too much raw materials migth be costly to store
+The location of the supplier must be considered because this will affect lead time and also being transported a shorter distance is more environmentally friendly (which could attract new customers)
+The reputation and reliability of the supplier must be considered since a reputable & reliable supplier is more likely to deliver high quality goods on time meaning that production doesn't have to stop
+
+2)
+
+Advantages:
+    The product can be customised so that they get exactly the product they want which increases customer satesfaction
+    High prices can be charged since a unique product is being made which is good because it (increases profits?)
+Disadvantages:
+    Job production is very labour intensive and requires highly skilled workers which may be costly to employ
+    It can take a long time to create a product which means less products can be made in a period of time which means the number of sales will be lower
+    Raw materials cannot be bought in bulk therefore raw materials will incur a higher cost
+
+adv:
+    Materials can often be bought in bulk which is often cheaper which means the spendings of the company will go down
+    Products can be customised to a certain extent which can increase customer satesfaction which can increase sales
+disadv:
+    Inbetween batches people and machines have nothing to do but still incur costs which decreases profits since they are not making products
+    if the batch size is small the cost per product might be high leading to lower sales
+
+3)
+    - Flow production can produce huge amounts of identical products which is good for toyota since they produce many cars which are all the same
+    - Flow production often uses lots of machinery which is good for toyota since it means that less humans need to be employed and the machines can run all the time without breaks
+    - Raw materials can be bought in bulk due to the large volume of products produced and that is good for toyota since the prices of bulk products are lower.
+
+p93
+1) Job production is where each item is produced individually to meet the customer's specification
+   Batch production is where several items are produced at once where each batch can be made differently if required
+   Flow production is where the products are continuously made by passing through an assembly line where each step of production is carried out as it travels down the line. This makes lots of identical products
+
+2) Labour intensive prodution requires lots of people and less machinery whereas capital intensive production requires less people and lots of machinery and automation;
+   Labour intensive production allows employees to be creative whereas capital intensive production can run 24/7
+
+3) it means machines do the job on their own with little to no input from humans
+4) Advantage:
+        - Employees get greater satesfaction since they can be creative
+        - The product can be tailoured to the customer to increase customer satesfaction
+Disadvantage
+        - Takes a longer time to make the products without automation
+        - skilled employees can be expensive to employ
+
+5) Adv:
+        - Products can be made to precise quality standards since the machines are very repeatable
+        - Less employees have to be employed saving costs
+disadv:
+        - Machinary is expensive to buy
+        - A breakdown of a machine may cause the entire production line to stop which is expensive
+
+6) they could use barcodes to keep track of stock
+   they could use software to track idfk tbh
+   
+1) Sole trader
+2) Sice a sole trader is owned and run by one person, they are able to keep all of the profit for themselves. Additionally, it is the easiest form of business to set up as it avoids the possibility of disagreements and isn't a limited company.
+3) 20
+4) The workload can be spread out across the partners unlike a sole trader where all the work is done by one person. Also, it is simpler to set up than a private limited company.
+5) A sole trader is owned and run by one person whereas a private limited company is owned by shareholders and run by employees and the board of directors. A sole trader gets to keep all profit for themselves whereas a private limited company has to pay employees and share out the profit amongst the shareholders.
+6) The board of directors
+7) Advantages: A private limited company has limited liability which means if the busienss fails then the shareholders only lose the money invested in the company and their personal assets are protected; A private limtied company can have more than 20 shareholders and is better suited to larger companies with many employees.
+Disadvantages: It is much more difficult to set up and run a private limited company; All the economic records of the private limited company must be made publicly available.
+8) Unlimited liability means that the (sole trader) is personally responsible for the business where if the business fails they might be forced to sell their personal assets to pay debts.
+9) Entrepreneurs skills: Hard working; driven/motivated; skills in the area of the type of business;
+10) sole trader
+11) A sole trader is owned by one person whereas a private limited company is owned by shareholders;
+    A sole trader is controled by the owner whereas a private limited company is controlled by a board of directors appointed by the shareholders.
+1)
+    a)
+    b) The cost of production of the pork since the business needs to make a profit to survive; take into account the competitors' prices
+    c) Road is a door-to-door service whereas rail is not and there is not a train station in every location;
+       Planes are very expensive whereas road is much cheaper;
+       Trains can carry large amounts of goods whereas lorries can transport less;
+       Boats can only transport goods between ports whereas by road they can be transported almost anywhere;
+    d) Political factors have affected the pig farming industry since the exchange rates changed which meant that suppliers bought from European farmers as they were cheaper than Scottish farmers
+       Competitive factors have affected the pig farming industry since there is an oversupply of meat in Europe the competitors have decreased prices leading to a price war
+2)
+    a)
+        i) secondary sector
+        ii) The objectives of organisations in the primary sector are to survive (continue trading); to make a profit since otherwise the business would not survive; to create a high quality product so that customers are more likely to buy it.
+    b) They have a gift finder option on their website so that customers have an easy time finding the correct product;
+       They have a wide range of products so that the customer can find exactly what they want;
+       They have an in-house chemist who makes sure the products are of high quality
+
+    c) Finance is an internal factor that can affect the expansion plans since it will require an investment;
+       Human resources is an internal factor that can affect the expansion plans since expanding will require hiring more employees and existing employees may need to adapt;
+       The current technology is an internal factor that can affect the expansion plans since the business will need to increase production capacity and also need to handle a larger volume of customers going to their website.
+
+    d) The employees have an interest in getting payed whereas the owners have an interest in getting more profit;
+       The customers have an interest in lower prices whereas the suppliers have an interest in higher prices;
+
+3)
+    a)
+        i) growth
+        ii) where the product is rapidly gaining popularity and sales rapidly increase
+    b) A business may need to consider footfall when choosing a new retail outlet location since if more people walk by a greater number of people are likely to trade with the business
+       A business may need to consider infrastructure when choosing a new retail outlet because they may need to bring in a large ammount of supplies by lorry
+       A business may need to consider availability of employees when choosing a new retail outlet because the business may need employees with a specific skillset
+
+    c) A benifit of market segmentation is that the product can be specifically designed for a pertucular type of person which means they are more likely to purchase the product leading to increased sales and increased profit so the business can survive
+       Another benifit of market segmentation is that since the product or service can be specifically designed for the target audience, a higher price can be charged which leads to a greater profit.
+
+4)
+    a) Social enterprises are organisations run like a business but have a social or environmental goal as a first priority
+       Charities are organisations which rely on donations and have a social or environmental goal as highest priority and do not take any profit
+
+    b) Charities are owned by trustees whereas private limited companies are owned by shareholders
+       Charities are controlled by the trustees whereas private limited companies are controlled by a board of directors appointed by the shareholders
+       Charities make no profit and rely on donations whereas private limited companies make a profit and rely on selling their product or service to the customer
+
+    c) If there is a depression then people are less likely to buy expensive goods and more likely to buy cheap goods leading to some businesses doing well and others doing poorly
+       Banks may or may not be willing to lend money to a business, and the interest rates can change which can affect a business
+       External investers could or could not be willing to invest in a business
+       
+irn bru: Aimed at any age, people in scotland, any income. Advertises in scotland I guess, with scottish humour. because it's a scottish company with a lot of tradition or something.
+Rolex watches: aimed at usually older people, high income, any location, because the price is very high or something. Advertising shows the kind of thing people with high income would do.
+Some kind of shampoo is probably aimed at females under 50, any location, any income. Advertisements probably have a female under 50 in them, and could be on TV or in certain magazines.
+Duplo is aimed at children under 6, any gender, any location etc. because the product is designed to be safe for children. Advertisements probably in kids' TV.
+
+deth is aimed at old people over 70 because ususally younger people wouldn't like to die, and it's only advertised on TV past 25:00 because the older people are the later they can watch tv right amirite lmao lmaof ucok u
+
+Conical flasks could be targeted at any gender over 18 chemists, because chemists do chemistry ig and that needs glassware. Could be advertised on websites about chemistry I guess
+Running shoes could be targeted towards people who run as a hobby because they need them or something idfk. THey could be advertised in sports magazines.
+the bible will mostly be sold to religious people because most people who arent religious dont have a use for a bible. they could be advertised on TV idk actually.
+H2O(l) + H2O(l) <-> H3O+(aq) + OH-(aq)
+
+    [H3O+]^1[OH-]^1
+K = ---------------
+       [H2O]^2
+
+Water is a liquid so it does not have a concentration and is assigned the value 1
+Kw = [H3O+][OH-] (hydronium ion * hydroxide ion)
+Ionic product of water, dissociation constant for water
+
+Any K will change with temperature
+Kw at 25C is 1e-14
+
+pH
+==
+
+pH = -log10([H3O+])
+[H3O+] = 10**(-pH)
+
+pH of water
+-----------
+pH = -log10([H3O+])
+[H3O+] = sqrt(K)
+pH = 7.0
+
+The value of Kw increases with temperature which means that the forward reaction is being favoured at higher temperatures which means the forward reaction must be endothermic.
+
+At 50C Kw = 5·48e-14
+pH = -log10([H3O+])
+pH = -log10(sqrt(5·48e-14))
+pH = 6·63
+
+pOH = -log10([OH-])
+pH + pOH = 14
+
+Water is amphorteric because it can react as an acid as and a base.
+
+Brønsted-Lowry definition is that an acid is a proton donor and a base is a proton acceptor.
+
+act1 scene 1
+(Key) Themes: reputation, courage, integrity, hysteria, witchcraft, power/authority, guilt, tyranny, envy, loyalty, deception, goodness, intolerance, jealousy, injustice, resilliance
+Important theme: reputation, power/authority, hysteria, courage, guilt
+mindmap/QTreeView
+Characters
+Conflict - who, what
+Setting: stage directions
+Language
+
+
+
+English notes I think (--merge-with-desktop)
+
+Character profiles
+==================
+____________
+John Proctor
+____________
+"Do you understand that I have many enimies" he is fearful about his reputation
+
+
+
+
+________________
+Abigail Williams
+________________
+She's the niece of the person who's house she lives in, so she is family but there is some disconnect there
+"It were only sport uncle" she is just having fun and everyone is taking it to be witchcraft
+p8-9 "goody proctor is a gossiping liar" Abigail is quick to accuse and stuff idk
+"You drank a charm to kill goody proctor"
+Orphan, not very good chance in life
+
+Reputation
+"Your name in town - it is entirely white is it not?" "There be no blush about my name"
+"For she won't sit near someone [abigail] soiled"
+
+
+Hysteria
+========
+Parris - becoming afraid of what could happen to his reputation, he's becoming a bit hysteric
+Mrs Putnam
+
+
+Important stuff scenes bits lmao
+================================
+
+Act 1
+-----
+0:
+"John proctor is left alone with Abigail Williams and she tries to rekindle the affair she had with him when she was the servant in his house. He refuses her advances and she loses her temper, mentioning that she blames his wife, Elizabeth."
+
+Reasons why thats important:
+This is the frist we really hear of abigail's affair with john, and that is a major part in the play. It also shows how john has moved on and doesn't want to hear of it again, but abigail is not the same and she is jealous of Elizabeth. This is important as it's the major reason abigail leads the group of children to eventualyl execute everyone.
+
+1:
+When abigail sees how much power Tituba has in blaming other people of being with the devil, she steps in as well listing off names. This is improtant because it leads directly to the arrest of many people which has a snowball effect where each of those people accuses more and more until many many people have been accused. It is thus how Elizabeth gets arrested (what abigail seems to want) and when John goes to try to save her he also gets arrested I think and they both end up dying anyway so it doesn't matter lmao.
+
+2:
+
+
+
+
+
+
+Stuff for homework p19-26 thursday
+
+52-58
+
+
+Act III
+-------
+"I know not what a witch is" "then how do u know that ur not one"
+Danforth: reputation: introduces himself with how many people he has condemned, almost gloating of how many people he has killed
+When someone said that theres a deposition danforth immediately dismisses it even though it's hard evidence.
+"We burn a hot fire here; it melts down all concealment".
+The court has become hysterical, trying to find evidence that they are trying to undermine the court
+bottom page 72: "Such a Christian that will not come to church but once a month!" damages Proctor's reputation, and the court are looking for stuff like that to undermine John.
+"Is every defence an attack upon the court?" - Hale (75)
+"A person is either with this court or he must be counted against it" - Danforth (76)
+"This man is killing his neighbours for this land" - Giles talking about Putnam
+- society is being damaged, old quarrels are coming back
+- judges are scared that they were mistaken so they're looking for evidence that they're right not the truth
+- yet more fear and confusion in the community and noone is safe
+Hale started the trials but he is now unsure and backing off
+
+die
+fuck
+u
+english
+is fucking
+stupid
+
+The absurdity: "we are here, your honour, precisely to discover what no one has ever seen." so how do they discover it lmfao
+Parris is a coward that only cares about his reputation
+tension on page 87 as to whether or not mary's evidence is going to influence the court
+"with a hysterical cry" stage directions
+"Proctor, breathless and in agony"
+"trembling, his life collapsing around him"
+"I have made a bell of my honour and rung the doom of my good name"
+"(faintly) No, sir." - Elizabethz
+End of act III is full of incident and drama perticularly because of Proctor's confession and Elizabeth's error.
+Abigail is clever enough to cause a diversion away from the topic
+
+Hathorne and Danforth believe that any turning back will undermine the whole legal structure. Danforth says "I cannot pardon these when twelve are already hanged for the same crime" which shows that Dabforth is committed to continuing with the prosecutions otherwise he would be admitting that he falsely hanged 12 people. This also shows that Danforth is stubborn and the theme of reputation comes into it as Danforth would rather continue hanging people than admit that they were wrong.
+
+Reverend Hale is driven by guilt because he has signed death warrants. fuck u ok i fucking hate english I fucking hate english
+I glanced over at the fuel guage. Zero. There wasn't much time left before we fell out of the sky. On the left, there was an expanse of tussock bog sloping upwards, and on the right there was ocean, an inlet of stability into this undulating landscape. Large, snow-topped mountains covered with rocky scree surrounded the <area>. On the sides of the mountains, large fir trees grow, right up to the snowlne. There was not much chance of survival, I thought. I was alone, for once, so at least I didn't have to worry about killing anyone other than myself. 
+#
+
+Bruh
+ther eonce
+The clouds hang in the sky, almost motionless, the shadow turning the white clouds a dark and gloomy shade of gray like the wool from the black sheep amongst a sky filled with white. The water was smooth as glass and as an otter surfaces the surface parts giving way to a dark shape of a head while v-shaped ripples flow out behind. The small white houses across the sea-loch reflected endlessly in the motionless water, getting fainter and fainter. The distant roar of the cars like toys on the far-away road carries well over the water and fractures the silence of the peaceful shore. The frost-covered grass, with its crunchy texture, divided by the line of the sun that melted all in its path, a mix of brilliant white ice and dark green grass. The air is fresh and nippy with cold, made of nitrogen and oxygen primarily, it is necessary for almost all known life to exist. Whether it be large or small, on land or in the sea, almost every living creature is reliant on the atmosphere for something. The ozone layer is responsible for blocking the harmful UV-C light, and without it almost every animal would not be able to survive. Only the creatures deep down in the ocean, usually single cell organisms close to hydrothermal vents can survive without the atmosphere.
+
+Chose a play in which there is a scene involving a significant discovery or deception or revelation. By referring to appropriate techniques, explain how the discovery or deception or revelation is presented and discuss how its impact contributes to your appreciation of the play as a whole.
+
+Tituba is threatened with beatings/being hanged - ks, theme of reputatuion (Parris)
+Abigail fears she may sufer a similar fate. - characterisation/survival
+Her cry of witchcraft defers blame, strengthens the claim of witchcraft and empowers the children. - climax, key scene, characterisation, theme of reputation (Abigail, and power over children)
+Sets the trials in motion
+Gives abigail an opportuniy to remove Elizabeth Proctor
+Gives the girls new status and power
+Abigail runs away at the end - 
+
+"The crucible" by Arthur Miller recounts the events surrounding the salem witch trials of 1692. Salem is a puritan village and the inhabitats follow a strict religious way of life. Their belief of god is unshakeable, but equally is their fear that the Devil hopes to find and harm them. Aw roumours of witchcraft start to spread their way through the community, a group of young girls find themselves facing a very harsh and real punishment if the truth of their actions should ever be revealed. To evade their punishment, the girls are forced to deceive those around them. By examining the techniques of key scene, characterisation and the theme of reputation this essay shall examine how the deception is presented and discuss how its impact contributes to our appriciation of thte play as a whole.
+
+<context> Act I of the play opens and closes in the household of Reverend Parris. Parris has found his daughter Betty and his niece Abigail dancing in the woods, an act that is not permitted under Puritan law. Betty has not woken from the previous evening's activities and now Parris fears that something makes her ill.</context><point> Rumours of witchcraft soon abound. The theme of reputation is important to many characters and is introduced by Miller early in the play. </point><context>Parris is worried about his daughter's health but he seems more concerned with the damage that may be done to his reputation, addressing his niece abigail he states: </context><evidence> "Now look you, child, your punishment will come in its time. But if you trafficked with spirits in the forest I must know it now, for surely my enimies will, and they will ruin me with it."</evidence><analysis> Reputation is important to the people oof Salem. It is used as a measure of a person's honesty, fairness and standing within the society. This early scene also indicates how important and how fragile a person's reputation can be. A damaged reputation can be difficult to mend.</analysis><response> As such people will go to great lengths to protect their reputation and will be willing to deceive others if necessary in order to maintain their honest appearance. Inevitably this deceitful behaviour leads to complications and often pushes individuals to make increasingly wild claims in order to protect the "goodness" of their name.</response>
+
+<context> In the climax to this scene, TItuba, Parris's slave, is dragged outside to be beaten and possibly hanged for her confession to dancing and the fresh allegations of witchcraft that surround her.</context><point> This is a key scene within the play as it establishes the sense of hysteria that will develop and form into the construction of the court.</point><analysis> Parris, who is afraid of his own reputatuin being damaged uses threadts and leading questions to dorect Tituba in giving her confession. As a slave she has little reputation of her own to lose but the threat to her life is serious. Her confession is her only safe path and in giving it, the other girls realise that what they say and do will have a lasting impact on their fate and future.</analysis> Reverend Hale, visiting Salem to assess the validity of the claims of witchcraft tells Tituba:<evidence> "You are God's instrument put in our hands to discover the Devil's agents among us."</evidence><analysis> This is a key scene as Abigail and the other girls can see what possible punishments await them if they hold to their story. To avoid punishment, indeed, to ensure their survival, they must act quickly. Abigail leads the deception. Having seen the power bestowed upon Tituba, Abigail sees an opportunity to deflect the blame of her actions upon others and escape any blame.</analysis><response> This is a key scene as this is where the girls' deception takes a truely significant turn and elevates the m from being girls hiding the truth of their secret dancing and become major key witnesses in the ensuing witch trials.</response>
+
+<context>The scene is intense, with many characters actin g impiuslively and at times irrationally, in order to protect their reputations, their lives or to manipulate the situation in order to better their sucial standing.</context><point> Miller's use of characterisation is perhaps best exemplified in this scene through Abigail Williams.</point><context> Abigail is a lowly servant girl. Orphaned and of little social status. Amongst the girls, however, she is a ringleader with significant power and control over them which is often procured by threatening violence. As she warns the girls earlier:</context><evidence> "Let either of you breathe a wordm, or the edge of a word about the other things, and I will come to you in the black of some terrible night and I will bring a pointy reckoning that will shudder you."</evidence><point> Abigail knows that she is in real danger of being accused by Tituba and face a terrivble punishment. Her only option os to manipulate the proceedings anbd deceive Hale, and those lookign for a scapegoat. It is a calculated rush when she cries out </point><evidence>"I wabt to open myself! I Want the light of god...I danced for the Devil...I go back to Jesus...I saw Sarah Good with the devil..."</evidence><analysis> Abigail's confession is shocking and fast. It shows her ability to survive through difficult situations. By confirming the same people that Tituba confessed to seeing and adding another, she cements her position as a key witness and a Christian seeking redemtion for her sins.</analysis><response> Having seen Abigail flirting with her former employer, John Proctor, in an earlier scene, the audence begin to see that Abigail is a character with many sides and is very acomplished at deception</response>.
+
+At the end of the scene, as the levels of hysteria are rising, the girls start shouting out many people's names who they say they saw with the devil. This helps to spread out the blame and hide the fact that it was them in the first place who started all of this. By deferring the blame like this they help to remove the damage to their reputation, even though they are the lowest rank in society, and also help to decrease the impact to Parris's reputation. This is a key scene as it really fuels the theme of hysteria where everyone is getting accused and the hysteria grows exponentially as each accused person accuses many more. Miller uses the theme of hysteria and reputation to show the audence how fragile the reputation of people are and how much everyone is scared of witchcraft and how seriously they take religion and the word of the accusers. Here, the audience see just how easily things get out of control, and get an idea of the puritan way of living where many things are considered bad or illegal.
+Why you should care about online privacy & security
+
+You may think that you control your smartphone, that it is designed to obey your every command, quickly and efficiently. But what if I told you that in fact technology can be the one controlling you? In today's world there are countless techological gadgets from smart fridges to powerful desktop computers, and equally countless brands and corperations trying to get your attention. The consequence of all this: advertising, and lots of it. "Free" programs such as google chrome are not the product, you are the product. Many people think that advertising in and of itself is harmless, if annoying, however there are many reasons why it is anything but. In this essay I shall discuss why you should be more concious of your privacy online, and how big tech companies can exploit your usage of technology to their benefit.
+
+Advertising influences us all. You might think that you are not influenced by it, but it is unavoidable: not only is it everywhere, it is designed to stick in our heads. While that might be fine for a new brand of car for example (it might even be helpful to be informed that a product exists), advertising is not only about products, but advertisers want to influence you in other ways too: even down to your political beliefs. There have been numerous occasions (SITE_SOURCE) where advertising has been used to sway political events and elections. And the information in such advertisements is often dubious at best, they are designed to latch on to your interests and influence them in their favour. And they use rather disturbing manipulative techniques to get you to click and manipulate your emotions.
+
+Companies like google have enourmous amounts of data about you, it can figure out where you live, what school you go to, your favourite place to eat all from your phone's location. And it goes further, it knows what you have bought (through confirmation emails), it remembers every photo you have ever taken (even if you delete them). And all this comes into play when there's a data breach. Not if, when. Think back, have you ever taken a picture of sensitive information - passwords, bank details, phone numbers - to remember it or take a note? And now in all likelyhood that information will be on the web somewhere.
+
+Smart devices such as alexa and google assistant are always listening to your conversations and often report back to their respective companies. Again, going back to the data breech possibility, how would you like your entire conversations in the same room as your phone to be leaked out onto the internet for everyone to see? 
+
+"I haven't got anything to hide" is an often used argument. There are N reasons why it is invalid. You know what the N reasons are also invalid.
+
+It is likely that most of your data is held by one of a few big companies: Google, Apple, Microsoft and Facebook. Many people are very loyal to a brand such as Apple and end up spending more money than they need to to get a branded product. This gives Apple the oppertunity to collect large volumes of personal data. Google and facebook, on the other hand, mainly involved with providing online services. Every time you interact with them, the company gains more information about you, your habits and your location. Google stores all of your search history across all of your decvices, even if you have deleted it, and all of the photographs you have taken on an android phone, even if you have deleted them. It knows every advert you have ever clicked on, and every email you have ever sent. This allows them to specifically target advertisments to you with things they think you want to buy, or may be interested in. This is bad since advertisement is very expensive and smaller companies cannot afford the level of customer expsure that larger ones can, therefore the larger companies dominate and this means that you have less choice and since there's less competition, the large companies can increase prices without any consequences because there is no other option. Whereas large companies have the finance and resources to develop existing products, small companies are often the source of radical innovation because the larger companies are often afraid to change too much in fear of losing their customers. In theory, all of this data is only accessible if the government requests it (for example, if you are suspected of terrorist activities) however in practice a data breach can happen on a small or large scale. If your password gets guessed for example, that person has access to all of your data and knows everywhere you've been and everything you've done over the last decade. Write something here about all eggs in one basket.
+
+In the event of a data breach - which is very likely to happen at some point - the most likely thing to be taken is the database of passwords. These passwords are in what's known as a hashed format - this means the password has had some fancy maths done to it which has the special property of being easy to do, but getting from the hashed form to the password is very very hard.  If you hash a password, for example one type of hash is called sha1. The sha1 hash of "password" is "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8" and while this looks like gibberish that wouldn't be useful, it's actually quite clever: since if you hash something, the result is always the same, the server can hash your password and compare it to the stored password hash and if they are the same then the passwords must also be the same, so it accepts your password. Hashes are used *because* they are hard to reverse: if the database gets leaked, in theory it's no big deal, since it's incredibly hard to get back to the password, however in practice using very powerful computers to repeatedly do the same thing - hash a password and then compare the hashes - eventually the original password will be found. Aditionally, every password that has ever been cracked is all in a big database, and before trying random things it tries all the passwords that have been used before, this means that if you re-use a password and one website gets hacked, it's trivial for the hackers to compromise your other accounts using the same password. The password guesses are also not random: they try english words, substituting "l" for "1", and many more. Basically, the only way to be safe is to have a password that is not an english word, contains symbols and numbers and doesn't use common letter-number substitutions such as "password" -> "p4ssw0rd".
+
+Conclusion: what you should do to minimise amount of data held and make sure you interact with internet securely (password advice etc)
+Technology, how it has become more controlling, targeted advertisements and why you should care that your data is being taken, how people have become complacent with technology and why it shouldn't be increasingly locked down.
+
+English is a pointless subject. There is no use for it at all! do intro later
+
+RUAE analyses text to the point of insanity. There is no way that the 
+Write an essay on hysteria in act 1
+
+Write an essay on changing emotions of John Proctor in act 1
+At the start he's subdued and treading very carefully because he "means to please her"
+Stage directions show a lot of pauses
+"a sense of seperation" he is feeling regret and probably a bit of pain because of how he had an affair with abigail
+He then grows angry at Elizabeth and also at himself, a complete change of mood
+"Woman. I'll not have your suspicion any more"
+Mary goes to court and John Proctor is angry, "you will not to court again, Mary Warren."
+He's dismissive, surprised, amazed, perplexed about the whole court thing
+ "I'll official you!" (takes whip) Proctor's anger is increasing
+ "Incandescent with rage"
+ Elizabeth is being reasonable however John is not
+ "As though a secret arrow had pained his heart"
+ He feels deeply embarrased about not remembering all the commandments
+ He is defencive and bewildered because he doesn't like being questioned and tested
+ 
+ He is becoming vengeful and "feeling deep hatred of himself"
+ 
+1 paragraph as a sort of intro for whats gonna happen including somestuff
+
+Fuck this i hate english and I will write an essay on why english is pointless and should be something totally different.
+
+John proctor has been described as "even tempered" which shows that he keeps his emotions in check most of the time however in act II this all chages because he loses his temper with elizabeth and later himself. In his anger he brings his household into even more danger.
+Choose a play which has an effective opening scene or concluding scene. By briefly referring to details of the scene, explain how the dramatist made it effective and discuss how it contributes to your appreciation of the text as a whole.
+
+Answers to questions on Drama should refer to the text and to such relevant features as characterisation, key scene(s), structure, climax, theme, plot, conflict, setting . . .
+
+"The Crucible" by Arthur Miller is a play in which the concluding scene is effective. The play, which is set in the Salem witch trials in 1692. In Salem's puritan society reputation is incredibly important to everyday life, and this plays a key role in the concluding scene where John Proctor (who has been accused of witchcraft) is faced with a dilemma and ultimately sacrifices his life for his reputation. By examining the techniques of characterisation and the themes of reputation and courage this essay shall examine how the concluding scene is made effective and how it contributes to our appriciation of the play as a whole.
+Elizabeth is left alone with John and Elizabeth is instructed to convince John to confess but instead she gives John the choice as she knows that he is the only one who can rid himself from his self hatred. The theme of courage is important here as Elizabeth needs great courage to not insist that John is to confesss. Elizabeth says "I cannot judge you, John" which shows that she cannot tell him what to do or influence his decision. Miller is clever in the usage of language here as it makes the reader feel a veriety of emotions and highlights that John is a hero but a flawed one.
+
+In the concluding scene all of the hysteria that has been steadily growing throughout the play comes to a dramatic crescendo as Proctor makes the ultimate sacrefice for his reputation. Proctor is on the brink of bursting out in rage as he signs his confession but as the prosecutors tell him it must be pinned on the door of the church he becomes hysterical crying out "Because it is my name! ... I have given you my soul, leave my name!". This also ties in well with the theme of reputation as he is willing to die for his reputation, it shows how important reputation is if living without a good reputation is worse than dying.
+
+Danforth refuses the opportunity to postpone the hangings because he is unable to admit his guilt. Parris says "Excellency, I would postpone these hangin's for a time", even Parris is having doubts about the integrity of the court however Danforth was the one conducting the hangings and he will not admit, even to himself, that he has been wrong in fear of damaging his reputation. Miller uses the theme of reputation to show the characterisation of Danforth and how he does not admit to himself how the court has been wrong.
+
+Proctor just wants to live a normal life and doesn't want it to be publicly known that he confessed because that would impact his reputation and show that he is weak compared to the people who do not confess "I am not worth the dust on the feet of them that hang!". This is yet more evidence towards the theme of reputation and guilt showing that Proctor has an internal guilt if he was to confess since "god damns all liars". All of this contributes to the final burst of hysteria and Proctor getting hanged. Here, Miller uses characterisation to show how Proctor would rather die than live with the guilt of confessing to something he didn't do.
+You may think that you control your smartphone, that it is designed to obey your every command, quickly and efficiently. But what if I told you that in fact technology can be the one controlling you? In today's world there are countless techological gadgets from smart fridges to powerful desktop computers, and equally countless brands and corperations trying to get your attention. The consequence of all this: advertising, and lots of it. "Free" programs such as google chrome are not the product, you are the product. Many people think that advertising in and of itself is harmless, if annoying, however there are many reasons why it is anything but. In this essay I shall discuss why you should be more concious of your privacy online, and how big tech companies can exploit your usage of technology to their benefit.
+
+Advertising influences us all. You might think that you are not influenced by it, but it is unavoidable: not only is it everywhere, it is designed to stick in our heads. While that might be fine for a new brand of car for example (it might even be helpful to be informed that a product exists), advertising is not only about products, but advertisers want to influence you in other ways too: even down to your political beliefs. There have been numerous occasions (SITE_SOURCE) where advertising has been used to sway political events and elections. And the information in such advertisements is often dubious at best, they are designed to latch on to your interests and influence them in their favour. And they use rather disturbing manipulative techniques to get you to click and manipulate your emotions.
+
+Companies like google have enourmous amounts of data about you, it can figure out where you live, what school you go to, your favourite place to eat all from your phone's location. And it goes further, it knows what you have bought (through confirmation emails), it remembers every photo you have ever taken (even if you delete them). And all this comes into play when there's a data breach. Not if, when. Think back, have you ever taken a picture of sensitive information - passwords, bank details, phone numbers - to remember it or take a note? And now in all likelyhood that information will be on the web somewhere.
+
+Smart devices such as alexa and google assistant are always listening to your conversations and often report back to their respective companies. Again, going back to the data breech possibility, how would you like your entire conversations in the same room as your phone to be leaked out onto the internet for everyone to see? 
+
+"If you have nothing to hide you need not be afraid" is a stupid argument for two reasons. Firstly, everyone has something to hide, perhaps you said something in an email that you regret or find embarrasing, or have a photograph of sensitive information, everyone has something they wouldn't like shared with everyone. Secondly, if someone tracked you everywhere you go and knew what you did at every point in time, that'd be creepy wouldn't it? So why is it acceptable when corporations take that exact information and use it to target you with advertisments?
+\documentclass{article}
+\title{Why you should care about online privacy}
+\author{}
+\date{}
+
+\usepackage{parskip}
+\usepackage[margin=3.0cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\begin{document}
+\maketitle
+
+You may think that you control your smartphone, that it is designed to obey your every command, quickly and efficiently, but what if I told you that in fact technology can be the one controlling you? In today's world there are countless techological devices from powerful desktop computers to wearable gadgets and even smart fridges, and equally countless brands and corperations trying to get your attention. In addition this makes it even easier for a malicious hacker to gain access to worying amounts of your personal information. When it comes to online advertising-funded software, ``Free" programs such as Google Chrome are not the product: you are - with your data. Many people think that advertising in and of itself is harmless, if annoying, however there are many reasons why it - and the privacy implications that come along with it - is anything but. You're being tracked, you're being traced and you're being hunted by both the legitimate and illicit forces on the internet.
+
+Advertising influences us all. You think you're immune do you? But it is unavoidable: not only is it everywhere, it is designed to stick in our heads. While that might be fine for a new brand of car for example (it might even be helpful to be informed that a product exists), advertising is not only about products, but advertisers want to influence you in other ways too: even down to your political beliefs. There have been numerous occasions where advertising has been used to sway political events and elections. And the information in such advertisements is often dubious at best,\cite{politics}\cite{ca_databreech} they are designed to latch on to your interests and influence them in their favour. And they use rather disturbing manipulative techniques to get you to click and manipulate your emotions. With so much dubious or misinformation around, how do you know what is fact and what is fiction?
+
+%Companies like google have enourmous amounts of data about you, it can figure out where you live, what school you go to and your favourite place to eat all from your phone's location. And it goes further, it knows what you have bought, it remembers every photo you have ever taken (even if you delete them). And all this comes into play when there's a data breach. Not if, when. Think back, have you ever taken a picture of sensitive information - passwords, bank details, phone numbers - to remember it or take a note? And now in all likelyhood that information will be on the web somewhere.
+
+%Smart devices such as alexa and google assistant are always listening to your conversations and often report back to their respective companies. Again, going back to the data breech possibility, how would you like your entire conversations in the same room as your phone to be leaked out onto the internet for everyone to see? 
+
+%``I haven't got anything to hide" is an often used argument. There are N reasons why it is invalid. You know what the N reasons are also invalid.
+
+It is likely that most of your data is held by one of a few big companies: Google, Apple, Microsoft and Facebook. Many people are very loyal to a brand such as Apple and end up spending more money than they need to to get a branded product. This gives Apple the opportunity to collect large volumes of personal data. Google and facebook, on the other hand, are mainly involved with providing online services. Every time you interact with them, the company gains more information about you, your habits and your location. Google stores all of your search history across all of your decvices, even if you have deleted it, and all of the photographs you have taken on an android phone, even if you have deleted them, and everywhere you have been with an android phone. It knows every advert you have ever clicked on, and every email you have ever sent. This allows them to specifically target advertisments to you with things they think you want to buy, or may be interested in. This is more than bad, isn't it? It's almost sinister. Since advertisement is very expensive and smaller companies cannot afford the level of customer exposure that larger ones can, therefore the larger companies dominate and create monopolies, which is bad for you\cite{monopolies}. The CEOs of these big companies even had to submit evidence to the US Congress to defend their position.
+
+These large monopolies mean that you have less choice and since there's less competition, and the large companies can increase prices without any consequences because there is no other option. Whereas large companies have the finance and resources to develop existing products, small companies are often the source of radical innovation\cite{spreadsheet} because the larger companies are often afraid to change too much in fear of losing their customers. This leads to less innovation and development if there is less competition.
+
+ In theory, all of this data that the companies have on you is only accessible if the government requests it (for example, if you are suspected of terrorist activities) however in practice a data breach can happen on a small or large scale such as the Cambridge Analytica scandle\cite{ca_databreech} where 50 million facebook users' data was used without their consent. If your password gets guessed for example, that person has access to all of your data and knows everywhere you've been and everything you've done over the last decade. There's a saying - don't put all of your eggs in the same basket - that really holds true here: Not only do they have your eggs, they have the basket too - and the power to throw it off a cliff. With these few large corporations having sole access to your data, one breach and everything is gone.
+
+Oh - and then there's the passwords. In the event of a data breach - which is very likely to happen at some point - the most likely thing to be taken is the database of passwords. Now this might get a bit technical - but bear with me, it'll all make sense. These passwords are in what's known as a hash. Hashes are one-way functions: they can't be undone, to get from the hash to the original password you just have to guess (more on that later). If you hash something, the result is always the same, the server can hash your password and compare it to the stored password hash that was created when you set your password and if they are the same then the passwords must also be the same, so it accepts your password. Hashes are used \emph{because} they are hard to reverse: if the database gets leaked, in theory it's no big deal, since it's impossible to get back to the password, however - and this is a big however - in practice using very powerful computers to repeatedly guess what the original password is, eventually the original password will be found by trying many different combinations of letters and words. Think of it like a much easier way of just repeatedly guessing someone's password, but it never locks you out. Aditionally, every password that has ever been cracked is all in a big database, and before trying random things the password cracker tries all the passwords that have been used before, this means that if you re-use a password and one website gets hacked, it's trivial for the hackers to compromise your other accounts using the same password. The password guesses are also not random: they try English words, substituting ``1" for ``l", and many more. Basically, the only way to be safe is to have a password that is not an English word, contains symbols and numbers and \emph{doesn't} use common letter-number substitutions such as ``password" $\rightarrow$ ``p4ssw0rd".
+The facts about why your online privicy is at risk are shocking. Targeted advertising knows more about you than you know about yourself, and can influence you in surprising ways. Digital monopolies feed off your data, limit technological innovation and stop smaller businesses from succeeding. Hackers can guess most people's passwords easily and access every bit of data about you with them. Now you have been informed on the great risks to your online privacy I hope you are motivated to change your digital behaviour, as there are many easy ways to significantly reduce the magintude of the issue. Go on, change your password now.
+
+%The internet is a place where your information is scaresly safe, but what can you do about it? Well, there are a few things to consider. Firstly, have a good password. That means that even if companies get lots of information about you, it's less likely to fall into the wrong hands. Secondly, consider alternatives to popular services and applications, such as DuckDuckGo which is a privacy focussed search engine similar to google. If you want to go all out, consider Linux as an alternative to Windows, since Microsoft is one of the worst when it comes to personal data. Thirdly, a VPN can help provide anonymity which helps break the link between the data and you. However, that is ineffective if you log in to a site, so fourthly, minimise the number of accounts you sign in to. If you don't need an account, don't make one, or if you have to, use a throwaway email address.
+
+\begin{thebibliography}{1}
+
+\bibitem{politics}
+https://www.newyorker.com/tech/annals-of-technology/the-problem-of-political-advertising-on-social-media
+\bibitem{ca_databreech}
+https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election
+\bibitem{monopolies}
+https://www.bbc.com/news/business-53583941
+\bibitem{spreadsheet}
+https://www.bbc.co.uk/news/business-47802280
+\end{thebibliography}
+
+\end{document}
+\documentclass{article}
+\title{Right to repair}
+\author{}
+\date{}
+
+\usepackage{parskip}
+\usepackage[margin=3.0cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\begin{document}
+\maketitle
+
+In today's world people are becoming more and more consumerist, and nowhere is this more prevelant than in technology. Technological gadgets like smartphones are often designed to fail (planned obsolescence) and designed to be unrepairable when they break. However, this is destroying the world we live in: consumerism in this quantity is not sustainable. c
+John Proctor has been described as "even tempered" which shows that he ususally doesn't show anger or strong emotions most of the time, however this is shown to be not entirely true in act II where he goes through a range of emotions and ultimately completely loses his temper.
+
+At the start of Act II, John Proctor is subdued and careful with his words, "I(John Proctor) mean to please you (Elizabeth Proctor)" and he tries possibly in vein ("a sense of their seperation arises") to rekindle their relationship. The stage directions for this part show lots of pauses. There is mostly silence broken with a few words. 
+
+John Proctor feels disbelief and berwilderment along with some anger and annoyance when Elizabeth mentions about Mary Warren going to Salem because he "forbid her go to Salem any more". He is confused and in disbelief at the court because he never thought anything official would be done. He is also confused as to why Elizabeth let Mary go, as Elizabeth said "I couldn't stop her", "She frightened all my strength away". His growing anger and annoyance at Elizabeth causes the argument that follows.
+
+Afterwards, John starts to anger and is defencive: "Why! I have no business in Salem" even though he "did speak of going, earlier this week". We see later that his anger is more directed towards himself but he hasn't yet come to terms with it. This leads to a full-on argument, started when John says that he was alone for a second with Abigail, and Elizabeth seems dissapointed and "starts to turn". His anger is shown when he says "Woman. I'll not have your suspicion any more". By the end of the argument Elizabeth says "I do not judge you. The magistrate sits in your heart that judges you" which suggests that John is not in fact angering at Elizabeth, rather himself, he feels shame and embarrasement but he has done nothing to fix it only tried to wait for it to go away, which it doesn't. It seems as though he is still in shock and doesn't really know how to deal with the emotions he is feeling.
+
+When Mary Warren comes in John is angry with her for going to Salem, probably because he thinks the whole court situation is a "pretence". "I'll whip you if you dare leave this house again!" this shows the magnetude of his anger, but also it seems that he is just taking out his anger with himself on Mary, like he did with Elizabeth.
+
+When Hale comes in Proctor is rather indignant, he doesn't like that Hale is questioning him and thinks it's unfair: "(coldly, respectfully) Why we - have no fear of questions sir". He is especially annoyed when Hale states that he has "rarely [been] in church onSabbath Day," and he explains that he thinks Parris is not a good minister: "I see no light of God in that man". This raises Hale's suspicion since that is quite an accusation, but he mentioned about the golden candlesticks that show how Parris is valuing material possessions which is frowned upon in their society. 
+
+When Hale asks Proctor to recite the commandments he feels embarrasment because the commandments contain adultery, such that he can't bring himself to say it. This shows us that Proctor's greatest pain and weekness is his own guilt and that he cannot deal with it. Hale takes this more as a sign that he doesn't know the commandments, which he does, he just can't bring himself to say it. He feels shame at the topic and that leads to anger and he becomes defencive: "you have said that twice sir" "(lost) Aye". The stage directions in this part show pauses and the fact that John especially is hiding his true emotions from Hale so as to not reveal his crime.
+
+Afterwards as Hale leaves, John and Elizabeth go outside to find that more people are being taken to the jail. This leads to hysteria and confusion from everyone because things have escilated much more than anyone expected. 
+45) The word "slounge" is a neologism which is similar to "slouch" and "lounge" which have connotations of a slow, lazy movement.
+(2) "once (too often)" has a use of perantheses which conveys that the encounter has only happened once however that is enough and the speaker would not like it to happen again.
+maybe 1  
+
+
+46)
+(1) "roomsized monster" is hyperbole since the shark is not roomsized nor a monster however it had a large impact on the speaker since the shark is very large compared to a human. "matchbox brain" also provides contrast to the large size of the creature here showing that the speaker believes this animal to be stupid compared to him.
+
+(1) "He shoggled me": "shoggled" has a double-meaning here since it could refer to the physical movement of the boat or to the speaker being shaken mentally and possibly quite scared.
+
+(1) "He displaced more than water" has two meanings, literal and metephorical: of course the shark displaced water but in the metephorical sense it displaced the speaker, making them feel out of place and considering the position of humans as a species
+
+(2) "decadent townee" is interesting word choice since "decadence" has connotations of luxury and something unnecessary but beautiful, which contrasts to nature; and "townee" means that the speaker feels out of place in nature and that nature is an alien environment to them.
+
+47) 
+
+
+analyze: comment on feature on language
+
+Set text: 10 mark question
+
+- Commonality: 2 marks
+   - Make a comment in general about the poem: 1 mark "mckaig's poems all contain the theme of nature...." make a statement showing why it containst the theme
+   - Mention another few (2) poems: 1 mark
+   - Demonstrate general understanding of how the question applies to the poem here and also the poet's wider work
+
+- Extract: answers from the poem: 2 marks
+   - Talk about theme in this poem
+   
+Elsewhere: answers from other poems: 6 marks
+   - Talk about the theme in other poems
+
+
+By referring to this poem and at least one other discuss how the poet uses symbolism to devbelop central ideas in his poetry.
+
+In "Basking Shark" initially the shark is symbolic of a primitive monster, but the shark must symbolise something else, as the speaker comes to a realisation it symbolises something rather profound that challenges his perception of the human race. Additionally, McCaig uses symbolism in other poems such as in "Aunt Julia" where Aunt Julia is symbolic of tradition and a way of life that has passed and lost into the mists of history.
+"The Crusible" by Arthur Miller is a play which contains a character which has a weakness or flaw. John Proctor is one of the main characters and his flaw is that he is ridden with guilt because he had an affair with Abigail Williams and this effects him in many ways. Miller uses characterisation and (setting?) to convey the theme of guilt and Proctor's flaws.
+
+In Act I Scene (2/3) we first hear of Proctor's affair "Aye but we did [touch]" (Williams). Even then, Proctor is in denial, trying to "put it out of mind", "Aye but we did not [touch]". Here Miller uses characterisation to show that Proctor feels guilty and how he wants to forget but he's not doing anything to fix it, just trying to bury it and this hurts him in the long run. Abigail clearly still wants John however he is denying it ever happened and telling her to forget it. This is important to the play as a whole because it shows the motives of Abigail as she leads the group of girls to accuse people of being witches to ultimately kill Elizabeth (John's wife) so Abigail can take her place.
+
+In Act II Scene 1 John and Elizabeth are alone in their house and we get a sense of how John's guilt is affecting their relationship for the worse. John and Elizabeth are talking quietly and in short sentences with lots of silence. John has his best intentions, however, "I mean to please you, Elizabeth". Dispite this, John and Elizabeth's relationship is not going very well, "I think you're sad again [Elizabeth]." Elizabeth still feels like John fancies Abigail even though he denies it: "she has suddenly lost all faith in him". Here Miller shows that Proctor is flawed by his guilt by using stage directions to show subtle emotions in John and Elizabeth which convey their "sense of seperation". This is important in the context of the play as a whole as it sets up for the important turning point where Elizabeth refuses to acuse John of lechery before the court which ultimately leads to many people dying since Abigail is not proven to be a fraud.
+
+In Act II John and Elizabeth get into an argument. John says "Woman. I'll not have your suspicion any more" which starts off the argument where John expresses that he is fed up with being judged "You will not judge me more, Elizabeth". He feels that he's been hard done by as he has done everything in his power to make right what he did wrong "I have gone tiptoe in this hous all seven month since she is gone". At the end of the argument it is clear that John is not really angry with Elzabeth but rather with himself: "The magistrate sits in your heart that judges you". Here Miller uses characterisation to show that John is really a good man who is deeply flawed by his guilt and that it can motivate him to be angry at himself for not living up to his own high standards. This is important in the context of the play as a whole because in the conversation Abigail was brought up in the context of the court and John has information that is important to the court, which he refuses to tell to the court right away, however when he goes it ends up being important to the outcome of the trials.
+
+In Act III John confesses his guilt to the court in an attempt to swing it in his favour. "I have known her, sir. I have known her". The stage directions show Proctor's guilt and pain as he confesses, "breathless and in agony", "trembling, his life collapsing about him", in perticular "his voice about to break, and his shame great" shows that he feels very guilty and shameful however this shows more about his character since he is willing to tell this great secret which he will be ruined for in front of the court for the greater good: "I have made a bell of my honour! I have rung the doom of my good name". He is willing to go through all that to protect above all his wife but also many more innocent people from being accused by Abigail & co. This is important in the context of the play as a whole since the theme of reputation is very important througout the play and this is a key moment for Proctor's reputation, and it also shows that Proctor is a "stronger" character tthan the likes of Danforth (the judge) since they do not want to admit they are wrong however Proctor does. Miller uses characterisation to reveal more about Proctor's character than just his guilt and the theme of reputation to show how Proctor is ultimately good underneath his veil of guilt.
+
+In Act IV John Proctor gives up his life for his name, as he cannot live with the guilt of confessing to a crime he did not commit. "Because it is my name! Because I cannot have another in my life! Because I lie and sign myself to lies! Because I am not worth the dust on the feet of them that hang!" Especially the last bit, if he confesses to this witchcraft crime he didn't commit he would feel guilty at the fact that others died and he didn't have the will to. Here Miller uses dramatic stage directions and dialogue to convey that Proctor is angry and would feel guilt if he confessed: "with a cry of his whole soul".
+
+In conclusion, John Proctor's guilt is important to the play as a whole because it plays a core role in the outcome of the court since it is his motivation and it ties in with the theme of reputation which is ultimately what leads to the judges condemning many innocent people because they can't go back on their original choices as it would damage their reputation. Eventually John fucking dies because he would rather die than accuse others and have his reputation ruined in the process. However we also see that Proctor is willing to put his reputation in jepordy to save others such as in Act III.
+p22 14
+ v(ms-1)
+   ^
+   |
+   |
+   |
+   |
+   |
+15 |........---------------------------------------\
+   |       /.                                      .\ 
+   |      / .                                      . \  
+   |     /  .                                      .  \    
+   |    /   .     112.5m                           ........ 12.5ms-1  
+   |   /    .                                      .   .
+   |  /18.75.                                      .   .
+ 0-|-------------------------------------------------------> t(s)
+   0 |      |                                      |   |
+    0.4s   2.9s                                  10.4s 15.4s     
+
+a) 18.75 + 112.5 = 131.25 = 131m
+b)
+    i) s = 200 - 131.25
+       u = 15
+       v = ?
+       a = -0.5
+       t = ?
+       v^2 = u^2 + 2as
+       v^2 = 15^2 + 2 * (-0.5) * (200 - 131.25)
+       v = sqrt(all that)
+       v = 12.5ms-1
+
+    ii) s = 0.5*(u+v)t
+        s/(0.5*(u+v)) = t
+        t = 5.0s
+
+
+d) dog takes 15.4s to cover the 200m track
+   other thing takes 200/14 = 14.3s to cover the track
+   the dog does not catch the hare since the dog takes longer to cover the same distance (??)
+
+
+ns 6 {
+a) v.mag = sqrt(3**2 + 1.5**2) = 3.3641.. = 3.4ms-1
+   v.theta = atan(y/x) = atan(1.5 / 3) = 27 degrees (clockwise from vector of boat velocity)
+b) s = vt t = s/v = 240/3 = 80s
+   s = vt = 1.5*80 = 120m
+}
+
+ns 1 {
+a)   98N
+      |
+\   /\|/ 
+ \ /  \
+  \\10 \
+   \\kg/
+    \\/\
+     \  \ 
+   40°\  \
+______(\ _\|
+           70N 
+b)
+y = rsin(theta) = 98 * sin(40) = 63N
+total force = 70 + 63 = 133N
+Force causing acceleration = F=ma = 10 * 6 = 60N
+friction = 133-60= 73N
+}
+
+ns 2 {
+a)  potential -> kinetic
+        ^             |
+        |     heat<-| v
+       kinetic <- strain 
+
+b)
+    i) 98N = weight; F = ma a = F/m = 12/10 = 1.2ms-2
+    ii) s = 8
+        u = 0
+        v !=
+        a = 1.2
+        t = ?
+
+        s = ut + 1/2 at**2
+        8 = 0.5*1.2*(t**2)
+        sqrt(8/(0.5*1.2)) = t = 3.7s
+
+}
+
+ns 3 {
+a) 
+    i) 145000N - 40000N = 105000N
+       F = ma
+       a = F/m = 105000/60000 = 1.75ms-2
+
+    ii) s = ?
+        u = 0
+        v = 58
+        a = 1.75
+        t !=
+        v**2 = u**2 + 2*a*s
+        58**2 = 1.75 * 2 * s
+        58**2 / (2.35 * 2) = s = 961m
+
+    iii) Air resistance is likely to increase as the plane increases in speed because it is proportional to the airspeed.
+
+b)
+    i) y = rsin(theta) = (59000 * 9.8) * sin(12) = 120000N
+    ii) what im not an aircraft engineer, dont understand
+    iii) (59000 * 9.8) - 120000 = 458000N WTf is this??!
+
+}
+
+ns 4 {
+
+a)
+    i) x = rcos(theta) = 4.0 * cos(26) = 3.59618... = 3.6N
+    ii) F = ma a = F/m = 3.6/18 = 0.2ms-2
+    ii) s = ?
+        u = 0
+        v !=
+        a = 0.2
+        t = 7
+        s = ut + 0.5*a*t**2
+        s = 0.5*0.2*7**2
+        s = 4.9m
+b)
+    It will travel further since cos() of <26 > cos() of 26 therefore horizontal force will be greater therefore acceleration will increase therefore it will travel further in the same time
+
+}
+
+ns 5 {
+>>> r = 250
+>>> x = r * cos(radians(60))
+                                >>> y = r * sin(radians(60))
+                                >>> x
+                                125.00000000000003
+                                >>> y
+                                216.50635094610965
+                                >>> y + 150
+                                366.50635094610965
+                                >>> y = y + 150
+                                >>> sqrt(x**2+y**2)
+                                387.2362396313559
+                                >>> atan(y/x)
+                                1.2421095693058144
+                                >>> degrees(atan(y/x))
+                                71.1676360140356
+                                >>> 
+ 
+
+                                
+}
+
+
+
+
+
+
+number 2 or sommin
+2)
+    a) Ek = 1/2mv^2
+          = 1/2 * 0.50 * 0.33*0.33
+          = 0.027J
+
+          1/2 * 0.50 * 0.43 * 0.43
+          = 0.046J
+
+    b) Metal spring because the kinetic energy after is greatest with the metal spring
+
+    c) fuck
+
+4)
+    a)
+        i) s = 2.0
+           u = 0.0
+           v = ?
+           a = -9.8
+           v**2 = u**2 + 2*a*s
+           v = sqrt(2*a*s)
+           v = 6.26ms-1
+
+         ii) F = ma
+             a = deltav / t
+             a = 6.26/0.02
+             a = 313ms-2
+             F = 15*313
+             F = 4.70kN downwards
+    b) The layer of soft material will increase the time taken for the mass to slow down, and as a = Δv/t, as t increases then A must decrease (for the same Δv), which means that since F=ma, with a lower a and the same m then the Force must decrease.
+
+6)
+    a) p = mv
+       p = 38*(2.2-4.6)
+       p = 91.2kgms-1
+
+
+    b) F = ma
+       130 = 38 * a
+       a = 3.42ms-2
+
+       u = 2.2
+       v = 4.6
+       a = 3.42
+       t = ?
+       v = u + at
+       4.6 = 2.2 + 3.42t
+       (4.6 - 2.2) / 3.42 = t
+       t = 0.70s
+
+    c) total momentum before = total momentum after
+       mtbefore = 54 * 2.2 + 38 * 2.2 = 202.4 (yes ill round it later)
+       mtafter  = 54 * v + 38 * 4.6 = 174.8 + 54v
+       202.4 = 174.8 + 54v
+       27.6 = 54v
+       v = 27.6/54
+       v = 0.511111111...
+       v = 0.51ms-1
+
+    d) If elastic then Ek before = Ek after
+       Ek before = 0.5*54*2.2**2 + 0.5*38*2.2**2 = 220J
+       Ek after  = 0.5*54*0.51**2 + 0.5*38*4.6 = 94J
+       Ek before != Ek after so the interaction was not elastic
+
+
+
+
+Numer 3 or something
+1)
+    a) s=? u=10 v=20 a=? t=5.0
+       s = 1/2(u+v)t
+       s = 0.5 * (10 + 20) * 5.0
+       s = 75.0m
+
+    b) Ek = 1/2mv**2
+    Ek before = 80000
+    Ek after  = 320000
+    delta Ek = 240000J
+             = 240KJ
+
+    c) a = delta v / t
+       a = 10 / 5
+       a = 2ms-1
+       F = ma
+       F = 1600 * 2
+       f = 3200N
+
+2)
+    a)  s=20 u=0 v=? a=9.8 t=?
+        s = ut + 1/2 at**2
+        20 = 1/2 * 9.8 * t**2
+        20/(1.2 * 9.8) = t**2
+        sqrt(t**2) = t
+        t = 1.30s
+
+    b)  v**2 = u**2 + 2as
+        v = sqrt(2 * a * s)
+        v = sqrt(2 * 9.8 * 20)
+        v = 19.8ms-1
+
+    c)  l8r
+
+
+3)
+    a) total momentum before (collision or explosion) = total momentum after event
+
+    b)  m1=1.2 v1=0.8 m2=0.9 v2=-1.5
+        total momentum before = m1v1 + m2v2 = -0.39kgms-1
+        total momentum after  = (m1+m2)v = -0.39kgms-1
+        v = -0.39 / (m1+m2)
+        v = -0.186ms-1
+
+    c)  if elastic then total ek before = total ek after otherwise inelastic
+        Ek = 1/2mv**2
+        before = 1.3965J
+        after  = 0.0362J
+        since before != after then its not elastic
+
+4)
+    a)
+        p = mv
+        j = delta p and since the ball is at rest delta p = p
+        1.20 = 0.050 * v
+        1.20 / 0.050 = v
+        v = 24.0ms-1
+    
+    b)  F = ma
+        a = delta v / t
+        F = m * (delta v / t)
+        F = 0.050 * (24.0 / 0.025)
+        F = 48.0N
+
+5)
+    fo = fs * (v / (v + vs))
+    412 = fs * (340 / (340 + 15))
+    412 / (340 / (340 + 15)) = fs
+    fs = 430Hz
+
+6)
+    t' = t/sqrt(1-(v**2/c**2))
+    t' = 1.0 / sqrt(1 - (0.9)**2)
+    t' = 2.294s
+
+7)
+    a)
+        z = v/c
+        0.0903 = v / 3e8
+        0.0803 * 3e8 = v
+        v = 24100000ms-1
+
+    b)
+        v = H0d
+        v/H0 = d
+        24090000 / H0
+        10^25m
+
+    c)
+        z = (λo - λr) / λr
+        z*λr = λo - λr
+        z*λr - λo = -λr
+        
+
+8)
+    - Cosmic microwave background: "afterglow" of the big bang can be observerd
+    - The universe is expanding and and the logical beginning of an expansion is for everything to be in one point at the start; (redshift of galaxies shows the expansion of the universe)
+    - Abundance of light elements is the likely outcome of the big bang were it to exist and that is what we observe
+Ok fuck this fucking election it's a fucking joke just fucking kill me already. Both presidents are fucking aweful, joe is a fucking pedo an donald is a fucking corrupt dicator. At least joe will fucking join the fucking climate agreement that EVERY OTHER FUCKING COUNTRY HAS JOINED IN THE FUCKING WORLD.
+
+The american election is a fucking joke. what is there to choose from? a right wing party, or a slightly less right wing party. What happened to choice? trump keeps the rich richer and the poor poorer, and is so corrupt he'll go to great lengths to fucking change the fucking election in his favour. At least biden will re-join the Parris climate agreement and benifit - sorry, stop killing the rest of the world. Trump is such a blithering idiot and I am surprised he even does anything with that pea-brain of his. He spends more time tweeting fake news than actually doing anything for america. Actually fuck america, they need a reform, their politics is shit, their elections are A LOT OF FUCKING COKE, there entire system is far to complex and archaic. WHY ARE THE RICH NOT TAXED MORE? WHY IS EVERYONE ACCEPTING THIS INCREDIBLE INEQUALITY? WHY ARE SOME PEOPLE EARNING LITERALLY MILLIONS OF TIMES THE MONEY YOU'LL EVER EARN IN YOUR LIFE, IN ONE DAY??? WHY THE FUCK? Tax should be described ON A FUCKING CURVE so thereS LESS CHANCE OF FUCKING TAX FRAUD. THIS EARTH IS FUCKED, WE ARE ON A PATH TO IMPENDING DOOM AND WE CANNOT BE SALVAGED. WE HAVE MORE TECHNOLOGY THAN WE CAN HANDLE, AND HAVE RUINED OUR CHANCES AS A SPECIES. and DONT FUCKING GET ME STARTED ON THE FUCKING NUCLEAR WEPONS. If humans are good enough to be saved then WHY DO WE NEED NUCLEAR WEAPONS TO PREVENT A FUCKING WORLD WAR? 
+BxxADBBDxxxxxxxAxxxxduck
+     ?
+
+28:
+CD
+Life
+====
+
+
+
+Edinburgh
+---------
+Norman MacCaig was born in Edinburgh and worked there as a primary school teacher for the early oart of his working life. He often gave readings of his work publicly in edinburgh, which were very popular.
+He died in 1996
+
+
+Education
+---------
+Norman MacCaig graduated from the University of Edinburgh with a degree in classics.
+- went to royal highschool
+- at school writes his first poem
+
+Gaelic Ancestry
+---------------
+Mother from isle of Scalpy, Harris
+Frequent visits to see his mother's family when he was young
+Triggered a lifelong love affair with the landscape and people of the highlands and islands
+Holidays to Assynt, northwest coast of scotland
+He describes this dual heritage as like being "two men at once" "two places I belong to as though I was born in both of them
+
+WWII
+----
+In world war two Norman MacCaig registered as a conscientious objector which was criticised. His outspoken pacifism was thought to have influenced his carreer, although that is debated. 
+
+Poetry
+======
+
+Summery
+=======
+Good friends with many other Scitrtusg poets - they would meet in edinburugh bars to laugh debate and drink
+Recieved an OBE
+Early work was quite surreal, experimental and confusing - latterly it became very precise, accesible poetry
+
+Places
+======
+Edinburhgh and Assynt - the majority of his writing inhabits two worlds... continue
+Italy got a grant to visit italy to visit italian poets
+
+People
+======
+
+
+Style
+=====
+MacCaig has a style which is humerous wh
+He had a "poetic rebirth" where his style changed from 
+usually in free verse
+Galaxy | Redshift | Distance (e24m) | Recession velocity
+=======|==========|=================|=======================
+  1    | 0.105    | 12.4            | 3.14e7ms-1
+  2    | 0.0514   | 6.63            | 1.54e7ms-1
+  3    | 0.023    | 2.68            | 0.70e7ms-1
+  4    | 0.0741   | 9.45            | 2.22e7ms-1
+  5    | 0.036    | 4.53            | 1.08e7ms-1
+  6    | 0.0609   | 8.09            | 1.80e7ms-1
+  7    | 0.123    | 14.4            | 3.60e7ms-1
+  8    | 0.0777   | 9.39            | 2.30e7ms-1
+
+2)
+    a) Since the frequency of the photons are higher than the threshhiold frequency of the metal and E = hf so increased freq = increased energy, the photons have enough energy to emit photoelectrons.
+    b) The maimum kinetic energy of the photons will remain constant
+    c) The number of photoelectrons per second will increase
+
+3)
+    Work function = h*fo
+    work func / h = fo
+    6.33*10^14 Hz   
+
+4)
+    E = hf - hfo
+      = hc/λ - workfunction
+      = hc/410*10^-9 - 2.85*10^-19
+    E = 2.06*10^-19J
+
+    E = 1/2 * m * v^2
+    v = sqrt(E/(0.5*m))
+    v = 663000ms-1
+
+5)
+    a)
+        E = hf
+        E = h*1.8*10^15
+        E = 1.19*10^-18 J
+
+    b)
+        E = 1/2mv^2
+        E = 6.89*10^-19 J
+
+    c)
+        wf = E - Ek
+        wf = 5.04*10^-19 J
+
+    d)
+        fo = wf / h
+        fo = 76.1*10^14 Hz 
+
+6)
+    Photovoltaic cells use the photoelectric effect to generate electricity;
+Doppler effect
+Speed of sound == 340ms-1
+
+Stationary object emitting sound of fixed frequency. Sound radiates in all directions equally. to the stationary obeserver the frequency is the same as to the object. However, if the source of waves is moving, the frequency measured by stationary observers will be higher when the object is moving towards the observer and lower if the object is moving away from the observer. This is because the waves are "compressed" with shorter wavelengths ahead of the moving source.
+org8109931
+
+Well stakeholders are basically people who hold large pointy sticks and try to murder the owners and employees because they really hate the business. There are three types of stakeholders: Passive stakeholders, active stakeholders, and flaming stakeholders. Passive stakeholders are people who don’t actually do anything, they’re just there to support the active stakeholders. Active stakeholders go and fucking destroy everything ifkr. Then flaming stakeholders are the ones who actually bring an actual fucking nuclear bomb and kill everyone. There done.
+Well steakholders are usually chefs because they hold the steak when its cooked. Theres not too much to it tbh and steakholders are only present in resteraunts.
+
+mark biology stuff
+Get maths texbook?
+Biology
+    |-> PCR
+    |-> Citric Acid Cycle
+    |-> DNA mutations
+    |-> Pharmacogenetics
+    |-> Electron transport chain
+    

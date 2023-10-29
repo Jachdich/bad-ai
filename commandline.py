@@ -1,4 +1,4 @@
-import sys, ai, json
+import sys, ai, json, random
 def depth(d):
     depth=0
     q = [(i, depth+1) for i in d.values() if isinstance(i, dict)]
@@ -20,7 +20,7 @@ data = {}
 if sys.argv[1] == "train":
     data = {"training-file": "stdin", "model-file": "stdout", "max-history": 10}
 elif sys.argv[1] == "predict":
-    data = {"model-file": "stdin", "length": 200, "output-file": "stdout"}
+    data = {"model-file": "stdin", "length": 200, "output-file": "stdout", "max-history": 10}
 else:
     usage()
 
@@ -51,14 +51,18 @@ if sys.argv[1] == "train":
 
 elif sys.argv[1] == "predict":
     if data["model-file"] == "stdin":
-        model = input()
+        model = json.loads(input())
     else:
         with open(data["model-file"], "r") as f:
-            model = json.loads(f.read())[0]
-
-    size = 8
+            a = json.loads(f.read())
+            model = a[0]
+            txt = a[1]
             
-    output = ai.predict("more in sorrow than in anger."[:size],
+    
+    size = int(data["max-history"])
+    idx = random.randint(0, len(txt) - size - 1)
+            
+    output = ai.predict(txt[idx:idx+size],
                         int(data["length"]), model)
 
     if data["output-file"] == "stdout":
